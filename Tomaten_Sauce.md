@@ -11,12 +11,12 @@
 * 25 ml Balsamico Essig
 
 ## Rezept
-• Tomaten blanchieren und häuten: 
+1. Tomaten blanchieren und häuten: 
 Tomaten in 1 L kochendes Wasser geben, 45 Sekunden warten und ausgießen, dann mit kalten Wasser abkühlen und häuten
 
-• Tomaten, Knoblauch und Zwiebeln in Stücke schneiden
+2. Tomaten, Knoblauch und Zwiebeln in Stücke schneiden
 
-• (kleiner) Topf auf hohe Hitze stellen und 3 Esslöffel Olivenöl hinein geben
+3. (kleiner) Topf auf hohe Hitze stellen und 3 Esslöffel Olivenöl hinein geben
 
 • Knoblauch und Zwiebeln hinzugeben und unter rühren glasig dünsten (nicht anbrennen lassen) (ca. 1 Minute)
 
