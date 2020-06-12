@@ -2,7 +2,7 @@
 
 ![result](build/Tomato_Sauce.jpg "Build")
 
-*Zutaten*
+## Zutaten
 • 4 Tomaten
 • 1 Knoblauchzehe
 • 1 Zwiebel
@@ -10,7 +10,7 @@
 • 100 ml Rotwein
 • 25 ml Balsamico Essig
 
-*Rezept*
+## Rezept
 • Tomaten blanchieren und häuten: 
 Tomaten in 1 L kochendes Wasser geben, 45 Sekunden warten und ausgießen, dann mit kalten Wasser abkühlen und häuten
 
@@ -41,4 +41,4 @@ Teelöffel Salz
 
 (• Wenn du empfindlich bist kannst du die Sauce jetzt auch passieren)
 
-```Guten Appetit```
+# Guten Appetit
