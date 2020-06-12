@@ -3,12 +3,12 @@
 ![result](build/Tomato_Sauce.jpg "Build")
 
 ## Zutaten
-. 4 Tomaten
-. 1 Knoblauchzehe
-. 1 Zwiebel
-. 6 Basilikumblätter (geht auch TK)
-. 100 ml Rotwein
-. 25 ml Balsamico Essig
+* 4 Tomaten
+* 1 Knoblauchzehe
+* 1 Zwiebel
+* 6 Basilikumblätter (geht auch TK)
+* 100 ml Rotwein
+* 25 ml Balsamico Essig
 
 ## Rezept
 • Tomaten blanchieren und häuten: 
