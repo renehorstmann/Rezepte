@@ -25,9 +25,9 @@ Tomaten in 1 L kochendes Wasser geben, 45 Sekunden warten und ausgießen, dann m
 * Tomaten hinzugeben, rühren und 2 Minuten auf hoher Hitze lassen
 
 * Auf mittlere Hitze stellen und folgendes hinzugeben:
-+ Balsamico Essig
-+ Prise Zucker
-+ Teelöffel Salz
+  + Balsamico Essig
+  + Prise Zucker
+  + Teelöffel Salz
 
 * Mit Topfdeckel mindestens 20 Minuten köcheln lassen, gelegentlich umrühren
 
