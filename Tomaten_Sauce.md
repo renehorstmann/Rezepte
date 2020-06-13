@@ -41,4 +41,4 @@ Tomaten in 1 L kochendes Wasser geben, 45 Sekunden warten und ausgießen, dann m
 
 * (Wenn du empfindlich bist kannst du die Sauce jetzt auch passieren)
 
-```Guten Appetit```
+> Guten Appetit
