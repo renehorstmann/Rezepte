@@ -1,6 +1,6 @@
 # Tomaten Sauce
 
-![result](imgs/Tomaten_Sauce.jpg)
+![img](imgs/Tomaten_Sauce.jpg)
 
 ## Zutaten
 - 4 Tomaten
