@@ -1,6 +1,6 @@
 # Tomaten Sauce
 
-![result](build/Tomato_Sauce.jpg "Build")
+![result](imgs/Tomaten_Sauce.jpg)
 
 ## Zutaten
 * 4 Tomaten
