@@ -26,7 +26,7 @@ Für eine Schüssel:
   + Salz und Pfeffer
   + Prise Zucker
 
-- Schüsselinhalt mit der Hand zerkleinern (evt. harte Tomatendtücke entfernen)
+- Schüsselinhalt mit der Hand zerkleinern (evt. harte Tomatenstücke entfernen)
 
 - Solange wiederholt einen Esslöffel Tomatenmark unterrühren, bis die gewünschte Konsistenz erreicht ist.
 
