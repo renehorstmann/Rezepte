@@ -14,7 +14,7 @@ Für eine Portion:
 ## Rezept
 - Steak, Paprika und Zwiebel in Stücke schneiden
 
-- 1 Esslöffel Rapsöl, 1 Esslöffel Rotweinessig und Salz und Pfeffer hinzugeben
+- 1 Esslöffel Rapsöl, 1 Esslöffel Rotweinessig, Salz und Pfeffer hinzugeben
 
 - Steak-Gemisch durchrühren und >60 Minuten ziehen lassen (ggf. im Kühlschrank)
 
