@@ -2,6 +2,8 @@
 
 ![img](imgs/Tomaten_Sauce.jpg)
 
+Für ca. 2 Portionen
+
 ## Zutaten
 - 4 Tomaten
 - 1 Knoblauchzehe
