@@ -14,13 +14,13 @@ Für eine Schüssel:
 ## Rezept
 - Tomaten 15 Minuten in einem Topf mit 1 L Wasser kochen 
 
-- Abgießen, Haut abziehen (Vorsicht!) und abkühldn lassen
+- Abgießen, Haut abziehen (Vorsicht!) und abkühlen lassen
 
 - Tomatenstiele herausschneiden
 
 - Zwiebel, Knoblauchzehe, Paprika und Chili fein würfeln
 
-- Alles in einer Schüssel geben und folgendes hinzufügen:
+- Alles in eine Schüssel geben und folgendes hinzufügen:
   + 2 Esslöffel Olivenöl
   + 1 Esslöffel Balsamico Essig
   + Salz und Pfeffer
