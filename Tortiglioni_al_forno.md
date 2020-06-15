@@ -5,7 +5,7 @@
 Für zwei Portionen:
 
 ## Zutaten
-- [Tomaten Sauce](Tomaten_Sauce.md) (2 Portionen)
+- [Tomaten Sauce](Tomaten_Sauce.md) (wie im Rezept für 2 Portionen)
 - 250 g Tortiglioni
 - 70 g Mozerella
 - 50 g Parmesan
