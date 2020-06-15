@@ -1,6 +1,6 @@
 # Gnocchi
 
-![img](imgs/Gnocchi.md)
+![img](imgs/Gnocchi.jpg)
 
 Für eine Portion:
 
