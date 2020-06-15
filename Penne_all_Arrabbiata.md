@@ -20,12 +20,12 @@ Für eine Portion:
 
 - Nach ca. 2 Minuten die Tomaten hinzugeben und bei mittlerer Hitze gelegentlich rühren und die Tomaten zerstoßen
 
-- Bevor die Penne fertig ist, etwas Nudelsalzwasser zur Pfanne geben und die Knoblauchzehe herausnehmen
+- Bevor die Penne fertig ist, etwas Nudelsalzwasser zur Pfanne geben und die Knoblauchzehe herausfischen
 
 - Petersilie kleinschneiden
 
 - Die fertige Penne direkt aus dem Topf in die Pfanne geben
 
-- Zusammen mit der Petersilie durchrühren und ein ca. 2 Minuten weiter braten
+- Zusammen mit der Petersilie durchrühren und ca. 2 Minuten weiter braten
 
 *Guten Appetit*
