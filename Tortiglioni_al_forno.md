@@ -20,13 +20,13 @@ Für zwei Portionen:
 
 - Einen Teil der Tomatensauce in eine Auflaufform verteilen
 
-- 2/3 der Nudeln drauf legen
+- 2/3 der Nudeln schichten
 
 - Ein weiterer Teil der Tomatensauce drüber laufen lassen
 
 - Mozerella, Kochschinken, Tomaten und Basilikum hinzufügen
 
-- Restliche Nudeln drauf legen
+- Restliche Nudeln schichten
 
 - Tomatensauce drüber laufen lassen
 
