@@ -4,9 +4,6 @@
 
 Für eine Portion:
 
-## Tipp
-Übrig gebliebene Kartoffeln ausnutzen und die Gnocchis einfrieren
-
 ## Zutaten
 - 150 g Kartoffeln
 - 50 g Mehl
@@ -22,5 +19,8 @@ Für eine Portion:
 - Mit einer Gabel andrücken
 
 - Die Stücke mit Olivenöl in einer Pfanne je 6 Minuten unter schwenken braten
+
+## Tipp
+Übrig gebliebene Kartoffeln ausnutzen und die Gnocchis einfrieren
 
 *Guten Appetit*
