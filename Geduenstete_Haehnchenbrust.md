@@ -1,0 +1,18 @@
+# Gedünstete Hähnchenbrust
+
+![img](imgs/Geduenstete_Haehnchenbrust.jpg)
+
+## Rezept
+- Hähnchenbrust in einer heißen Pfanne mit 1-2 Esslöffel Rapsöl 1-2 Minuten scharf anbraten
+
+- Wenden und die andere Seite 2 Minuten scharf anbraten
+
+- Pfanne auf halbe Hitze stellen
+
+- Erneut wenden
+
+- Falls vorhanden Gemüsereste zur Pfanne geben und mit einem Schuss Weißwein bedecken (Reste/Rand von Zwiebel, Paprika, Zucchini, ...)
+
+- Mit aufgelegtem Topfdeckel ca. 10 Minuten dünsten lassen
+
+*Guten Appetit*
