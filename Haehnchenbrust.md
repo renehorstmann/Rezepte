@@ -2,7 +2,7 @@
 
 ## Gebratene Hähnchenbrust
 [Zum Rezept](Gebratene_Haehnchenbrust.md)
-| | |
+| Ergebnisse | |
 | ------ | ----- |
 | Fettig | ★★★☆☆ |
 | Saftig | ★★★☆☆ |
