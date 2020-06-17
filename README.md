@@ -1,6 +1,7 @@
 # Rezepte
 Ein paar meiner Lieblingsrezepte
 
+- [Hähnchenbrust](Haehnchenbrust.md)
 
 ## Italienisch
 - [Gnocchi](Gnocchi.md)
