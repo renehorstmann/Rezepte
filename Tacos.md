@@ -22,8 +22,6 @@ Für 4 Tacos:
 
 - Mit Rapsöl in einer heißen Pfanne ca. 5 Minuten braten
 
-- 1 Esslöffel Tomatenmark unterühren und würzen (Salz, Pfeffer, ...)
-
 - Tortillas:
   - ca. 100 ml Öl in einer kleinen Pfanne erhitzen (knapp 1 cm Höhe)
 
