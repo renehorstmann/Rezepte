@@ -11,6 +11,8 @@
 
 - Jede Minute die Hähnenbrust wenden, ca. 6-8 Minuten lang
 
-- Aus der Pfanne nehmen und würzen (Salz, Pfeffer, etc. )
+- Aus der Pfanne nehmen und würzen (Salz, Pfeffer, ...)
+
+[Weitere Zubereitungsarten für Hähnenbrüste](Haehnchenbrust.md)
 
 *Guten Appetit*
