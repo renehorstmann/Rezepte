@@ -13,6 +13,7 @@ Ein paar meiner Lieblingsrezepte
 
 ## Mexikanisch
 - [Salsa](Salsa.md)
+- [Tacos](Tacos.md)
 - [Tortillas](Tortillas.md)
 
 ## US
