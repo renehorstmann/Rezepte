@@ -2,22 +2,33 @@
 
 ## Gebratene Hähnchenbrust
 [Zum Rezept](Gebratene_Haehnchenbrust.md)
+
 | Ergebnisse | |
 | ------ | ----- |
 | Fettig | ★★★☆☆ |
 | Saftig | ★★★☆☆ |
-| Aufwand | ★★☆☆☆ |
+| Aufwand | ★☆☆☆☆ |
+
 
 ## Gebackene Hähnenbrust
 [Zum Rezept](Gebackene_Haehnchenbrust.md)\
-Fettig:  ★★☆☆☆\
-Saftig:  ★★★★★\
-Aufwand: ★★★☆☆
+
+| Ergebnisse | |
+| ------ | ----- |
+| Fettig | ★☆☆☆☆ |
+| Saftig | ★★★★★ |
+| Aufwand | ★★★☆☆ |
+
 
 ## Gedünstete Hähnenbrust
 [Zum Rezept](Geduenstete_Haehnchenbrust.md)\
-Fettig:  ★★☆☆☆\
-Saftig:  ★★★★☆\
-Aufwand: ★★★☆☆
+
+| Ergebnisse | |
+| ------ | ----- |
+| Fettig | ★★☆☆☆ |
+| Saftig | ★★★★☆ |
+| Aufwand | ★★☆☆☆ |
+
+
 
 
