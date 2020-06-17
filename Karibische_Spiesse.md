@@ -17,7 +17,7 @@ Für 6 Spieße:
 - 6 cm Zuchhini
 - 1/2 Paprika
 
-## Rezepz
+## Rezept
 - Knoblauch und Chili klein würfeln und mit Erdnussöl und Minzblätter vermengen
 
 - Den Saft der Limette zur Marinade geben
