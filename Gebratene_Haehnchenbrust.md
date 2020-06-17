@@ -3,7 +3,7 @@
 ![img](imgs/Gebratene_Haehnchenbrust.jpg)
 
 ## Rezept
-- 1-2 Esslöffel Rapsöl in Pfanne auf hoher Stufe erhitzen
+- 1-2 Esslöffel Rapsöl in einer Pfanne auf hoher Stufe erhitzen
 
 - Hähnchenbrust von beiden Seiten scharf je 1-2 Minuten anbraten
 
