@@ -18,5 +18,8 @@ Ein paar meiner Lieblingsrezepte
 ## US
 - [Philly Cheesesteak](Philly_Cheesesteak.md)
 
+## Karibisch
+- [Karibische Spieße](Karibische_Spiesse.md)
+
 
 
