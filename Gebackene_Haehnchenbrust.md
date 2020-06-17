@@ -1,0 +1,18 @@
+# Gebackene Hähnchenbrust
+
+![img](imgs/Gebackene_Haehnchenbrust)
+
+## Rezept
+- Gemüsereste falls vorhanden in eine Auflaufform geben und mit einem Schuss Weißwein bedecken (Reste/Rand von Zwiebeln, Paprika, Zucchini, Salat, ...)
+
+- Auflaufform in den Ofen stellen und auf 160°C erhitzen
+
+- Hähnchenbrust in einer heißen Pfanne mit 1-2 Esslöffel Rapsöl scharf anbraten
+
+- Nach 1-2 Minuten wenden und die obere Seite würzen (Salz, Pfeffer, ...)
+
+- Nach weiteren 1-2 Minuten die Hähnchenbrust gewendet in die Auflaufform stellen und die andere Seite würzen
+
+- Für ca. 20 Minuten backen, falls vorhanden: Mit Fleischthermometer 72°C Kerntemperatur abwarten
+
+*Guten Appetit*
