@@ -1,6 +1,6 @@
 # Gebackene Hähnchenbrust
 
-![img](imgs/Gebackene_Haehnchenbrust)
+![img](imgs/Gebackene_Haehnchenbrust.jpg)
 
 ## Rezept
 - Gemüsereste falls vorhanden in eine Auflaufform geben und mit einem Schuss Weißwein bedecken (Reste/Rand von Zwiebeln, Paprika, Zucchini, Salat, ...)
