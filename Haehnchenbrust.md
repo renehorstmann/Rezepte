@@ -11,7 +11,7 @@
 
 
 ## Gebackene Hähnenbrust
-[Zum Rezept](Gebackene_Haehnchenbrust.md)\
+[Zum Rezept](Gebackene_Haehnchenbrust.md)
 
 | Ergebnisse | |
 | ------ | ----- |
@@ -21,7 +21,7 @@
 
 
 ## Gedünstete Hähnenbrust
-[Zum Rezept](Geduenstete_Haehnchenbrust.md)\
+[Zum Rezept](Geduenstete_Haehnchenbrust.md)
 
 | Ergebnisse | |
 | ------ | ----- |
