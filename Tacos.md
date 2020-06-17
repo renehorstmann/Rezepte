@@ -30,6 +30,8 @@ Für 4 Tacos:
 - TacoShells:
   - Nach Beschriftung im Backofen backen
 
+- Andere Schalotte in Scheiben schneiden und Kirschtomaten halbieren
+
 - Belegen:
   - Salatblatt
   - Rinderhack
