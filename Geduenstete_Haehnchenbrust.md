@@ -7,12 +7,12 @@
 
 - Wenden und die andere Seite 2 Minuten scharf anbraten
 
-- Pfanne auf halbe Hitze stellen
-
-- Erneut wenden
+- Pfanne auf halbe Hitze stellen und erneut wenden
 
 - Falls vorhanden Gemüsereste zur Pfanne geben und mit einem Schuss Weißwein bedecken (Reste/Rand von Zwiebel, Paprika, Zucchini, ...)
 
 - Mit aufgelegtem Topfdeckel ca. 10 Minuten dünsten lassen
+
+- Herausnehmen und würzen (Salz, Pfeffer, ...)
 
 *Guten Appetit*
