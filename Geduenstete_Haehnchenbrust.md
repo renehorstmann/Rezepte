@@ -15,4 +15,6 @@
 
 - Herausnehmen und würzen (Salz, Pfeffer, ...)
 
+[Weitere Zubereitungsarten für Hähnenbrüste](Haehnchenbrust.md)
+
 *Guten Appetit*
