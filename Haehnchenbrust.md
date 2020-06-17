@@ -1,5 +1,7 @@
 # Hähnchenbrust
 
+Hier ein paar verschiedene Zubereitungsarten für Hähnchenbrüste:
+
 ## Gebratene Hähnchenbrust
 [Zum Rezept](Gebratene_Haehnchenbrust.md)
 
