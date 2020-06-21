@@ -41,6 +41,6 @@ Tomaten in 1 L kochendes Wasser geben, 45 Sekunden warten und ausgießen, dann m
 
 - Ohne Deckel weiter reduzieren lassen, bis die gewünschte Konsistenz erreicht ist (~ 20 Minuten)
 
-- (Wenn du empfindlich bist kannst du die Sauce jetzt auch passieren)
+- (Wenn du keine Tomatenkerne magst, kannst du die Sauce jetzt auch passieren)
 
 *Guten Appetit*
