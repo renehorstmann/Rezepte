@@ -7,7 +7,7 @@ Für 4 Portionen
 ## Zutaten
 - 250 g Rinderhack
 - 20 g Speck
-- 1 Dose geschälte Tomaten
+- 1 Dose gehackte Tomaten
 - 1 große Zwiebel
 - 1 Knoblauchzehe
 - 1 Möhre
@@ -34,6 +34,7 @@ Für 4 Portionen
 - Chili schneiden
 
 - Folgendes hinzugeben:
+  - Tomaten
   - Rotweinessig
   - Lorbeerblätter
   - Basilikum
