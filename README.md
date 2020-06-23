@@ -5,6 +5,7 @@ Ein paar meiner Lieblingsrezepte
 - [Hähnchenbrust](Haehnchenbrust.md)
 
 ## Italienisch
+- [Bolognese Sauce](Bolognese_Sauce.md)
 - [Gnocchi](Gnocchi.md)
 - [Penne all Arrabbiata](Penne_all_Arrabbiata.md)
 - [Spaghetti Carbonara](Spaghetti_Carbonara.md)
