@@ -2,7 +2,7 @@
 
 ![img](imgs/Bolognese_Sauce.jpg)
 
-Für 4 Portionen
+Für 3-4 Portionen
 
 ## Zutaten
 - 250 g Rinderhack
@@ -12,7 +12,7 @@ Für 4 Portionen
 - 1 Knoblauchzehe
 - 1 Möhre
 - 1/4 Zucchini
-- 2 Lorbeerblätter
+- 1-2 Lorbeerblätter
 - 2 Stangen Badilikum / 10 Basilikumblätter
 - 1-2 cm Chili
 - 250 ml Rotwein
