@@ -18,9 +18,10 @@ Für eine Portion:
 
 - Mit einer Gabel andrücken
 
-- Die Stücke mit Olivenöl in einer Pfanne je 6 Minuten unter schwenken braten
+- Die Stücke mit Olivenöl oder Butter in einer Pfanne je 6 Minuten unter schwenken braten
 
 ## Tipp
-Übrig gebliebene Kartoffeln ausnutzen und die Gnocchis einfrieren
+Übrig gebliebene Kartoffeln ausnutzen und die Gnocchis einfrieren. 
+Tiefgefroren ohne aufzutauen in einer Pfanne mit Öl oder Butter aufwärmen.
 
 *Guten Appetit*
