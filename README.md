@@ -6,6 +6,7 @@ Ein paar meiner Lieblingsrezepte
 
 ## Italienisch
 - [Bolognese Sauce](Bolognese_Sauce.md)
+- [Farfalle all’amatriciana](Farfalle_all_amatriciana.md)
 - [Gnocchi](Gnocchi.md)
 - [Penne all Arrabbiata](Penne_all_Arrabbiata.md)
 - [Spaghetti Carbonara](Spaghetti_Carbonara.md)
