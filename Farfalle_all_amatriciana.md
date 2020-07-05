@@ -24,7 +24,7 @@ Für eine Portion:
 
 - Farfalle direkt aus dem Topf in die Pfanne geben und das Nudelsalzwasser aufbewahren
 
-- Nudelsalzwasser und ca. 1 Esslöffel Tomatenmark in die Pfanne geben und durchrühren
+- Ein wenig Nudelsalzwasser und ca. 1 Esslöffel Tomatenmark in die Pfanne geben und durchrühren
 
 - Petersilie fein würfeln und in die Pfanne geben
 
