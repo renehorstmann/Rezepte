@@ -8,6 +8,7 @@ Für eine Portion:
 - 100 g Farfalle
 - 50 g Pancetta
 - 1/2 Zwiebel
+- 1 Knoblauchzehe
 - 6 Kirschtomaten
 - 6 Stangen Petersilie
 
@@ -20,7 +21,13 @@ Für eine Portion:
 
 - Zwiebel würfeln und nach 5 Minuten in die Pfanne hinzugeben
 
+- Knoblauchzehe mit dem Messer eindrücken und zur Pfanne geben
+
+- Mit einem Schuss Weißwein ablöschen
+
 - Kirschtomaten halbieren und hinzugeben
+
+- Knoblauchzehe herausfischen wenn die Farfalle fertig ist
 
 - Farfalle direkt aus dem Topf in die Pfanne geben und das Nudelsalzwasser aufbewahren
 
