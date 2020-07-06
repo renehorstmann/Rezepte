@@ -27,7 +27,7 @@ Für 3-4 Portionen
 
 - Möhre, Zucchini und Speck zum Topf hinzugeben und 1-2 Minuten weiter scharf anbraten
 
-- Hackfleisch in den Topf geben und unter rühren 2-3 Minutdn braten
+- Hackfleisch in den Topf geben und unter rühren 2-3 Minuten braten
 
 - Mit Rotwein ablöschen
 
