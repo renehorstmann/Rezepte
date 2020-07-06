@@ -25,7 +25,7 @@ Für einen Burger:
 
 - Brötchen in den Backofen auf Grillstufe legen, bis der Käse geschmolzen ist
 
-- Patty in der Mitte mit einem Esslöffel andrücken (Um ein aufblähen zu vermeiden)
+- Patty in der Mitte mit einem Esslöffel andrücken (um ein aufblähen zu vermeiden)
 
 - Patty mit Öl von beiden Seiten scharf anbraten
 
