@@ -23,7 +23,7 @@ Für einen Burger:
 
 - Käse auf die untere Burgerbrötchenhälfte legen
 
-- Brötchen in den Backofen auf Grillstufe stellen, bis der Käse geschmolzen ist
+- Brötchen in den Backofen auf Grillstufe legen, bis der Käse geschmolzen ist
 
 - Patty in der Mitte mit einem Esslöffel andrücken (Um ein aufblähen zu vermeiden)
 
@@ -42,5 +42,8 @@ Für einen Burger:
   - Ketchup und Mayo
   - Gurkenscheiben
   - Salatblatt
+
+## Tipp
+Das Patty zusätzlich mit Zimt würzen, für eine interesannte deftige Note
 
 *Guten Appetit*
