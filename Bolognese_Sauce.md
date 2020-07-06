@@ -13,7 +13,7 @@ Für 3-4 Portionen
 - 1 Möhre
 - 1/4 Zucchini
 - 1-2 Lorbeerblätter
-- 2 Stangen Badilikum / 10 Basilikumblätter
+- 2 Stangen Basilikum / 10 Basilikumblätter
 - 1-2 cm Chili
 - 250 ml Rotwein
 - 50 ml Rotweinessig
