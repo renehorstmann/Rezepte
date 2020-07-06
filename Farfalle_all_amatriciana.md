@@ -7,7 +7,7 @@ Für eine Portion:
 ## Zutaten
 - 100 g Farfalle
 - 50 g Pancetta
-- 1/2 Zwiebel
+- 1 Zwiebel
 - 1 Knoblauchzehe
 - 6 Kirschtomaten
 - 6 Stangen Petersilie
