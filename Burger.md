@@ -6,7 +6,7 @@ Für einen Burger:
 
 ## Zutaten
 - Burgerbrötchen
-- 125 g Gutes Rinderhack
+- 125 g gutes Rinderhack
 - Scheibenkäse oder Reibkäse
 - Tomatenscheibe
 - 4 Gurkenscheiben
