@@ -19,7 +19,7 @@ Ein paar meiner Lieblingsrezepte
 - [Tortillas](Tortillas.md)
 
 ## US
-- [Burger](Burger.jpg)
+- [Burger](Burger.md)
 - [Philly Cheesesteak](Philly_Cheesesteak.md)
 
 ## Karibisch
