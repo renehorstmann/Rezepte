@@ -14,7 +14,9 @@ Für eine Portion:
 ## Rezept
 - Chili kleinschneiden (je nach schärfe Kerne entfernen)
 
-- Penne kochen (nicht abgießen)
+- Knoblauchzehe mit dem Messer eindrücken
+
+- Penne kochen (nicht abgießen, 90% der Kochzeit)
 
 - Gleichzeitig zur Penne in einer großen Pfanne die Chili und Knoblauchzehe mit einem Esslöffel Olivenöl scharf anbraten
 
