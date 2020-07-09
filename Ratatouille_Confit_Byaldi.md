@@ -7,7 +7,7 @@ Für 2 Portionen:
 ## Zutaten
 - 1 Zucchini und oder gelbe Zucchini
 - 1 Aubergine
-- 6 Tomaten
+- 4-5 Tomaten, je nach Größe
 - 1-2 Zwiebeln, je nach Größe
 - 1 Knoblauchzehe
 - 1 Paprika
