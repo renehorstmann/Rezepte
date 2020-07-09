@@ -43,8 +43,8 @@ Für 2 Portionen:
 - Immer abwechselnd geschichtet die Tomaten-, 
 Zucchini- und Auberginenscheiben seitlich in die Auflaufform legen
 
-- Passend geschnittenes Backpapier auflegen und in den Backofen bei 150°C schieben
+- Passend geschnittenes Backpapier auflegen und in den Backofen bei 150°C schieben (Ober + Unterhitze)
 
-- Nach 30 Minuten das Backpapier entnehmen und noch ein paar Minuten die obere Schicht rösten
+- Nach ca. 90 Minuten das Backpapier entnehmen und noch ein paar Minuten die obere Schicht rösten
 
 *Guten Appetit*
