@@ -8,9 +8,10 @@ Für 2 Portionen:
 - 1 Zucchini und oder gelbe Zucchini
 - 1 Aubergine
 - 6 Tomaten
-- 1 Zwiebel
+- 1-2 Zwiebeln, je nach Größe
 - 1 Knoblauchzehe
 - 1 Paprika
+- 6 Blätter Rosmarin (also 6 der kurzen Enden)
 - Rosmarin
 
 ## Rezept
@@ -18,7 +19,7 @@ Für 2 Portionen:
 
 - Tomaten in feine Scheiben schneiden
 
-- Aubergine und Zucchini in 2 mm dicke Scheiben hobeln
+- Aubergine und Zucchini in 2-3 mm dicke Scheiben hobeln
 
 - Paprika, Zwiebel und Knoblauch würfeln
 
@@ -32,11 +33,16 @@ Für 2 Portionen:
 
 - Mit Salz und Pfeffer würzen
 
-- Zusammen 10 Minuten schmoren lassen
+- Zusammen 10 Minuten schmoren lassen, gelegentlich umrühren und Weißwein nach kippen
 
-- Kurz abkühlen lassen und in einen Standmixer geben
+- Pfanneninhalt in einen Standmixer kippen
 
-- Salz, Rosmarin und Olivenöl hinzugeben und mixen
+- Folgendes in den Standmixer geben und anschließend mixen:
+  - Salz
+  - Pfeffer
+  - Rosmarin
+  - 1 Esslöffel Balsamico Essig
+  - 2 Esslöffel Olivenöl
 
 - Die Soße in einer Auflaufform dünn auftragen
 
@@ -45,6 +51,8 @@ Zucchini- und Auberginenscheiben seitlich in die Auflaufform legen
 
 - Passend geschnittenes Backpapier auflegen und in den Backofen bei 150°C schieben (Ober + Unterhitze)
 
-- Nach ca. 90 Minuten das Backpapier entnehmen und noch ein paar Minuten die obere Schicht rösten
+- Nach 90 Minuten das Backpapier entnehmen und noch ein paar Minuten die obere Schicht rösten
+
+- Mit Schnittlauch und geriebenem Parmesan servieren
 
 *Guten Appetit*
