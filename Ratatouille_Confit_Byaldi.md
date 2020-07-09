@@ -9,6 +9,7 @@ Für 2 Portionen:
 - 1 Aubergine
 - 6 Tomaten
 - 1 Zwiebel
+- 1 Knoblauchzehe
 - 1 Paprika
 - Rosmarin
 
@@ -19,11 +20,13 @@ Für 2 Portionen:
 
 - Aubergine und Zucchini in 2 mm dicke Scheiben hobeln
 
-- Paprika und Zwiebel grob würfeln
+- Paprika, Zwiebel und Knoblauch würfeln
 
 - Paprika in einer Pfanne mit Olivenöl braten
 
-- Zwiebel hinzugeben
+- Zwiebel und Knoblauch hinzugeben und glasig braten
+
+- Mit Weißwein ablöschen
 
 - Reste der Tomaten, Zucchini und Aubergine hinzugeben (auch die Endstücke)
 
