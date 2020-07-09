@@ -30,6 +30,8 @@ Für 2 Portionen:
 
 - Reste der Tomaten, Zucchini und Aubergine hinzugeben (auch die Endstücke)
 
+- Mit Salz und Pfeffer würzen
+
 - Zusammen 10 Minuten schmoren lassen
 
 - Kurz abkühlen lassen und in einen Standmixer geben
