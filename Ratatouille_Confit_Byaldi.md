@@ -29,7 +29,7 @@ Für 2 Portionen:
 
 - Mit Weißwein ablöschen
 
-- Reste der Tomaten, Zucchini und Aubergine hinzugeben (auch die Endstücke)
+- Reste der Tomaten, Zucchini und Aubergine hinzugeben (auch die Endstücke, vorher grob würfeln)
 
 - Mit Salz und Pfeffer würzen
 
