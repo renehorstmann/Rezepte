@@ -31,7 +31,7 @@ Für 2 Portionen:
 
 - Kurz abkühlen lassen und in einen Standmixer geben
 
-- Salz und Rosmarin hinzugeben und mixen
+- Salz, Rosmarin und Olivenöl hinzugeben und mixen
 
 - Die Soße in einer Auflaufform dünn auftragen
 
