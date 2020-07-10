@@ -7,7 +7,7 @@ Für eine Schüssel:
 ## Zutaten
 - 4 Tomaten
 - 1 Zwiebel
-- 1 Knoblachzehe
+- 1/2 oder kleine Knoblauchzehe
 - 1/4 grüne Paprika
 - (4 cm Chili)
 
