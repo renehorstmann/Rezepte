@@ -10,7 +10,7 @@ Für 4 Tortillas:
 - 8 ml Olivenöl
 
 ## Rezept
-- Mehl mit Olivenöl, Salz und 50 ml Wasser in einer Schüssel durchkneten
+- Mehl mit Olivenöl, Salz und 50 ml Warmwasser in einer Schüssel durchkneten
 
 - Den Teig im Kühlschrank >15 Minuten ruhen lassen
 
