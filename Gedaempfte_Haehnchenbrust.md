@@ -9,7 +9,10 @@
 
 - Hähnchenbrust kurz scharf von beiden Seiten anbraten, um eine Kruste zu erzeugen
 
-### Tipp
-Mit Salr marinieren für eine Salzkruste
+## Tipp
+Mit Salz marinieren für eine Salzkruste
+
+
+[Weitere Zubereitungsarten für Hähnenbrüste](Haehnchenbrust.md)
 
 *Guten Appetit*
