@@ -7,7 +7,7 @@ Hier ein paar verschiedene Zubereitungsarten für Hähnchenbrüste:
 
 | Ergebnisse | |
 | ------ | ----- |
-| Fettig | ★★★☆☆ |
+| Fettig | ★★★★☆ |
 | Saftig | ★★★☆☆ |
 | Aufwand | ★☆☆☆☆ |
 
@@ -17,7 +17,7 @@ Hier ein paar verschiedene Zubereitungsarten für Hähnchenbrüste:
 
 | Ergebnisse | |
 | ------ | ----- |
-| Fettig | ★☆☆☆☆ |
+| Fettig | ★★☆☆☆ |
 | Saftig | ★★★★★ |
 | Aufwand | ★★★☆☆ |
 
@@ -32,5 +32,13 @@ Hier ein paar verschiedene Zubereitungsarten für Hähnchenbrüste:
 | Aufwand | ★★☆☆☆ |
 
 
+### Gedämpfte Hähnenbrust
+[Zum Rezept](Gedaempfte_Haehnchenbrust.md)
+
+| Ergebnisse | |
+| ------ | ----- |
+| Fettig | ★☆☆☆ |
+| Saftig | ★★★★☆ |
+| Aufwand | ★★☆☆☆ |
 
 
