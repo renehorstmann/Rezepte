@@ -6,7 +6,7 @@ Für eine Portion:
 
 ## Zutaten
 - 100 g Spaghetti
-- 60 g Pancetta oded Guanciale
+- 60 g Pancetta oder Guanciale
 - 30 g Parmesan
 - 2 Eigelb
 
