@@ -1,6 +1,6 @@
 # One Pot Pasta
 
-![img](imgs/One_Pot_Pasta.md)
+![img](imgs/One_Pot_Pasta.jpg)
 
 Für eine Portion:
 
