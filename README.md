@@ -3,6 +3,7 @@ Ein paar meiner Lieblingsrezepte
 
 ## Basics
 - [Hähnchenbrust](Haehnchenbrust.md)
+- [One Pot Pasta](One_Pot_Pasta.md)
 
 ## Italienisch
 - [Bolognese Sauce](Bolognese_Sauce.md)
