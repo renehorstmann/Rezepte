@@ -27,7 +27,7 @@ Für eine Portion:
 - Eventuell zwischendurch mehr Wasser hinzugeben. Besser vorher zu wenig als zu viel
 
 ## Tipp
-Das Rezept ist eher eine Basis für One Pot Pasta, je nach Geschmack lässt sich viel varieeren.
+Das Rezept ist eher eine Basis für One Pot Pasta, je nach Geschmack lässt sich viel variieren.
 Z. B. Während der letzten 2 Minuten Kochzeit Basilikum / Oregano hinzugeben.
 Oder Chili zur Zwiebel und dem Knoblauch.
 ...
