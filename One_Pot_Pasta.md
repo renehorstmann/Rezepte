@@ -18,7 +18,7 @@ Für eine Portion:
 
 - Tomatensauce und 250 ml warmes Wasser hinzugeben
 
-- Mit Salz und Pfeffer würzen
+- Mit Salz und Pfeffer würzen und warten bis es kocht
 
 - Die Pasta hinzugeben und unter rühren 100% - 125% der Kochzeit köcheln lassen
 
@@ -29,7 +29,7 @@ Für eine Portion:
 ## Tipp
 Das Rezept ist eher eine Basis für One Pot Pasta, je nach Geschmack lässt sich viel variieren.
 Z. B. Während der letzten 2 Minuten Kochzeit Basilikum / Oregano hinzugeben.
-Oder Chili zur Zwiebel und dem Knoblauch.
+Oder Chili zur Zwiebel und dem Knoblauch. Oder ein Schuss Wein oder Fond zum warmen Wasser.
 ...
 
 *Guten Appetit*
