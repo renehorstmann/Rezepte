@@ -11,6 +11,7 @@ Ein paar meiner Lieblingsrezepte
 - [Farfalle mit pikanter Garnelensauce](Farfalle_mit_pikanter_Garnelensauce.md)
 - [Gnocchi](Gnocchi.md)
 - [Penne all Arrabbiata](Penne_all_Arrabbiata.md)
+- [Pizzateig](Pizzateig.md)
 - [Spaghetti aglio e olio](Spaghetti_aglio_e_olio.md)
 - [Spaghetti Carbonara](Spaghetti_Carbonara.md)
 - [Tomaten Sauce](Tomaten_Sauce.md)
