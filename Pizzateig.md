@@ -14,17 +14,29 @@ Für eine Pizza:
 
 ## Rezept
 - Wasser mit Salz und ca. 10% des Mehls vermischen
+
 - Hefe hineinrühren
+
 - Den Rest des Mehls hinzugeben und alles mit der Hand oder einem Knetmixer durchkneten
+
 - Den Teig in eine eingeölte Schüssel legen und mit mit dem Öl einpinseln
+
 - Mit einem feuchtem Trockentuch überdecken
+
 - +6 Stunden ruhen lassen
-- Aus dem Teig nochmals durchkneten und je Pizza eine Kugel formen
+
+- Den Teig nochmals durchkneten und je Pizza eine Kugel formen
+
 - Die Kugeln in eine leicht eingemehlte Schüssel legen und mit ein bisschen Mehl bestreuen
+
 - Wieder mit dem feuchtem Trockentuch bedecken
+
 - weitere 4 Stunden ruhen lassen
+
 - Vorsichtig eine Pizzakugel herausnehmen und auf eine mit Mehl bestreute Arbeitsfläche legen
+
 - Die Kugel in der Mitte eindrücken
+
 - Die Pizza flach ziehen: durch eindrücken des Teigs nach außen hin und drehen der Pizza
 
 *Guten Appetit*
