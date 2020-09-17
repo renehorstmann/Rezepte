@@ -25,7 +25,7 @@ Für eine Pizza:
 
 - +6 Stunden ruhen lassen
 
-- Den Teig nochmals durchkneten und je Pizza eine Kugel formen
+- Den Teig nochmals mit der Hand durchkneten und je Pizza eine Kugel formen
 
 - Die Kugeln in eine leicht eingemehlte Schüssel legen und mit ein bisschen Mehl bestreuen
 
