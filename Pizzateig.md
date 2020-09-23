@@ -10,7 +10,7 @@ Für eine Pizza:
 - 1 Teelöffel Salz
 - Hefe siehe Bild (42 g Hefewürfel -> ~1 g):
 
-![hefe](imgs/Pizzateig_1_Hefe.jpg)
+![hefe](imgs/Pizzateig_Hefe.jpg)
 
 ## Rezept
 - Wasser mit Salz und ca. 10% des Mehls vermischen

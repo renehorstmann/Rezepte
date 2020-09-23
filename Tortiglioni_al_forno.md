@@ -7,7 +7,7 @@ Für zwei Portionen:
 ## Zutaten
 - [Tomaten Sauce](Tomaten_Sauce.md) (wie im Rezept für 2 Portionen)
 - 250 g Tortiglioni
-- 70 g Mozerella
+- 70 g Mozzarella
 - 50 g Parmesan
 - 50 g Kochschinken
 - 8 Kirschtomaten
@@ -16,7 +16,7 @@ Für zwei Portionen:
 ## Rezept
 - Tortiglioni kochen (80% der angegebenen Kochzeit)
 
-- Mozerella, Kochschinken und die Tomaten schneiden
+- Mozzarella, Kochschinken und die Tomaten schneiden
 
 - Einen Teil der Tomatensauce in eine Auflaufform verteilen
 
@@ -24,7 +24,7 @@ Für zwei Portionen:
 
 - Ein weiterer Teil der Tomatensauce drüber laufen lassen
 
-- Mozerella, Kochschinken, Tomaten und Basilikum hinzufügen
+- Mozzarella, Kochschinken, Tomaten und Basilikum hinzufügen
 
 - Restliche Nudeln schichten
 
