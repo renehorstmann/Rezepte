@@ -44,6 +44,6 @@ Tomaten in 1 L kochendes Wasser geben, 45 Sekunden warten und ausgießen, dann m
 - (Wenn du keine Tomatenkerne magst, kannst du die Sauce jetzt auch passieren)
 
 ## Tipp
-Man kann auch gestückelte Tomaten aus der Dose verwenden, damit reduziert sich auch die Kochzeit
+Man kann auch geshackte Tomaten aus der Dose verwenden, damit reduziert sich auch die Kochzeit
 
 *Guten Appetit*
