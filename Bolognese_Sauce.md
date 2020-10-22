@@ -39,7 +39,7 @@ Für 3-4 Portionen
   - Lorbeerblätter
   - Basilikum
   - Chili
-  - 1,5 Teelöffel Zucker
+  - 2 Teelöffel Zucker
   - 2 Teelöffel Salz
   - Paprikapulver
   - Pfeffer
@@ -47,5 +47,7 @@ Für 3-4 Portionen
 - Mit Topfdeckel >1 Stunde köcheln lassen
 
 - Lorbeerblätter und Basilikum herausfischen
+
+- Je nach Bedarf (einen Esslöffel) Tomatenmark unterrühren
 
 *Guten Appetit*
