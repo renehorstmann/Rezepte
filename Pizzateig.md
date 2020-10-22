@@ -39,4 +39,8 @@ Für eine Pizza:
 
 - Die Pizza flach ziehen: durch eindrücken des Teigs nach außen hin und drehen der Pizza
 
+## Tipp
+Mit warmem Wasser, mehr Hefe (10x) und einem warmem Ruheort, 
+benötigt der Teig nur 2x eine Stunde statt 6 + 4
+
 *Guten Appetit*
