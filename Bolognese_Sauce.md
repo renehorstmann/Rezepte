@@ -37,7 +37,6 @@ Für 3-4 Portionen
   - Tomaten
   - Rotweinessig
   - Lorbeerblätter
-  - Basilikum
   - Chili
   - 2 Teelöffel Zucker
   - 2 Teelöffel Salz
@@ -46,7 +45,9 @@ Für 3-4 Portionen
  
 - Mit Topfdeckel >1 Stunde köcheln lassen
 
-- Lorbeerblätter und Basilikum herausfischen
+- Lorbeerblätter herausfischen
+
+- Basilikum klein schneiden und hineingeben
 
 - Je nach Bedarf (einen Esslöffel) Tomatenmark unterrühren
 
