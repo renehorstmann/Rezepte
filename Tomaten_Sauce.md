@@ -33,17 +33,18 @@ Tomaten in 1 L kochendes Wasser geben, 45 Sekunden warten und ausgießen, dann m
 
 - Mit Topfdeckel mindestens 20 Minuten köcheln lassen, gelegentlich umrühren
 
-- Basilikum klein schneiden
-
 - Mit dem Handmixer die Sauce pürieren
 
-- Basilikum und ein bisschen Oregano hinzugeben
-
 - Ohne Deckel weiter reduzieren lassen, bis die gewünschte Konsistenz erreicht ist (~ 20 Minuten)
+
+- Basilikum klein schneiden
+
+- Basilikum und ein bisschen Oregano hinzugeben
 
 - (Wenn du keine Tomatenkerne magst, kannst du die Sauce jetzt auch passieren)
 
 ## Tipp
-Man kann auch geshackte Tomaten aus der Dose verwenden, damit reduziert sich auch die Kochzeit
+Gehackte Tomaten aus der Dose verwenden und damit die Kochzeit erheblich reduzieren
+
 
 *Guten Appetit*
