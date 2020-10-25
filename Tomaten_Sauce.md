@@ -39,7 +39,7 @@ Tomaten in 1 L kochendes Wasser geben, 45 Sekunden warten und ausgießen, dann m
 
 - Basilikum klein schneiden
 
-- Basilikum und ein bisschen Oregano hinzugeben
+- Basilikum und ein bisschen Oregano hineinrühren
 
 - (Wenn du keine Tomatenkerne magst, kannst du die Sauce jetzt auch passieren)
 
