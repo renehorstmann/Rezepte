@@ -47,7 +47,7 @@ Für 3-4 Portionen
 
 - Lorbeerblätter herausfischen
 
-- Basilikum klein schneiden und hineingeben
+- Basilikum klein schneiden und hineinrühren
 
 - Je nach Bedarf (einen Esslöffel) Tomatenmark unterrühren
 
