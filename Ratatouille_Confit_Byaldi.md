@@ -11,7 +11,7 @@ Für 2 Portionen:
 - 1-2 Zwiebeln, je nach Größe
 - 1 Knoblauchzehe
 - 1 Paprika
-- 6 Blätter Rosmarin (also 6 der kurzen Enden)
+- 6 Nadeln Rosmarin
 
 ## Rezept
 - Tomaten blanchieren und häuten (45 Sekunden in kochendes Wasser geben)
