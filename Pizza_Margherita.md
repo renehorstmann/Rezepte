@@ -6,7 +6,7 @@ Für eine Pizza
 
 ## Zutaten
 - [Pizzateig](Pizzateig.md)
-- [Tomatensauce](Tomatensauce.md)
+- [Tomaten Sauce](Tomaten_Sauce.md)
 - Büffelmozzarella
 - Parmesankäse
 - 6 Basilikumblätter
