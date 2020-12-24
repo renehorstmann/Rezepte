@@ -18,7 +18,7 @@ Für eine Pizza
 
 - Mozzarella in groben Stückchen auflegen
 
-- Basilikum blätter dazulegen
+- Basilikumblätter dazulegen
 
 - Mit reichlich geriebenem Parmesan bestreuen
 
