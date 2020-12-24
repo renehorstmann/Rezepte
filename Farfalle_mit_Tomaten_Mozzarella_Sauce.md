@@ -14,7 +14,7 @@ Für eine Portion
 - 50 ml Weißwein
 
 ## Rezept
-- Zwiebeln und Knoblauch klein würfeln
+- Zwiebel und Knoblauch klein würfeln
 
 - 2 Esslöffel Olivenöl in einer große Pfanne erhitzen
 
@@ -24,7 +24,7 @@ Für eine Portion
 
 - Die Zwiebel und den Knoblauch mit Weißwein ablöschen
 
-- Die Kirschtomaten halbieren und in die Pfanne geben und bei mittlerer Hitze weiter braten
+- Die Kirschtomaten halbieren, in die Pfanne geben und bei mittlerer Hitze weiter braten
 
 - Wenn die Farfalle fertig sind (80%), direkt aus dem Topf in die Pfanne geben und das Nudelsalzwasser an die Seite stellen
 
@@ -32,7 +32,7 @@ Für eine Portion
 
 - Pfannenhitze abstellen, Basilikum klein schneiden und unterrühren
 
-- Den Mozzarella klein schneiden und kurz vor dem servieren unter die Farfalle rühren
+- Den Mozzarella klein schneiden und kurz vor dem Servieren unter die Farfalle rühren
 
 - Auf dem Teller mit Salz und Pfeffer würzen
 
