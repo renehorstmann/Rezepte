@@ -12,6 +12,7 @@ Ein paar meiner Lieblingsrezepte
 - [Gnocchi](Gnocchi.md)
 - [Penne all Arrabbiata](Penne_all_Arrabbiata.md)
 - [Pizzateig](Pizzateig.md)
+- [Pizza Margherita](Pizza_Margherita.md)
 - [Spaghetti aglio e olio](Spaghetti_aglio_e_olio.md)
 - [Spaghetti Carbonara](Spaghetti_Carbonara.md)
 - [Tomaten Sauce](Tomaten_Sauce.md)
