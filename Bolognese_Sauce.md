@@ -16,7 +16,7 @@ Für 3-4 Portionen
 - 2 Stangen Basilikum / 10 Basilikumblätter
 - 1-2 cm Chili
 - 250 ml Rotwein
-- 30 ml Rotweinessig
+- 25 ml Rotweinessig
 
 ## Rezept
 - Zwiebel und Knoblauch fein würfeln
