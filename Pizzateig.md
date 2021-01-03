@@ -7,7 +7,7 @@ Für eine Pizza:
 ## Zutaten
 - 150 g Mehl Typ 00
 - 75 ml leicht kühles Wasser (50% zum Mehl)
-- 1 Teelöffel Salz
+- 1 Teelöffel / 6 g Salz
 - Hefe siehe Bild (42 g Hefewürfel -> ~1 g):
 
 ![hefe](imgs/Pizzateig_Hefe.jpg)
@@ -31,7 +31,7 @@ Für eine Pizza:
 
 - Wieder mit dem feuchtem Trockentuch bedecken
 
-- weitere 4 Stunden ruhen lassen
+- weitere 2 Stunden ruhen lassen
 
 - Vorsichtig eine Pizzakugel herausnehmen und auf eine mit Mehl bestreute Arbeitsfläche legen
 
@@ -41,6 +41,6 @@ Für eine Pizza:
 
 ## Tipp
 Mit warmem Wasser, mehr Hefe (10x) und einem warmem Ruheort, 
-benötigt der Teig nur 2x eine Stunde statt 6 + 4
+benötigt der Teig nur rund 2x eine Stunde statt 6 + 2
 
 *Guten Appetit*
