@@ -1,6 +1,8 @@
 # Rezepte
 Ein paar meiner Lieblingsrezepte
 
+- [Erdnusshähnchen auf Salatbett](Erdnusshaehnchen_auf_Salatbett.md)
+
 ## Basics
 - [Hähnchenbrust](Haehnchenbrust.md)
 - [One Pot Pasta](One_Pot_Pasta.md)
