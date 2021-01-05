@@ -26,7 +26,7 @@ Für 3-4 Portionen:
 
 - Die Hähnchenbrüste von beiden Seiten je 2 Minuten braten
 
-- 150 ml Hühnerbrühe in die Pfanne geben und 15-20 Minuten auf mittlerer Hitze schmoren lassen
+- 150 ml Hühnerbrühe in die Pfanne geben und 15-20 Minuten auf mittlerer Hitze mit dem Deckel schmoren lassen
 
 - In der Zwischenzeit das Salatherz und den Rucula waschen. Die Reste vom Salatherz mit in der Pfanne schmoren lassen
 
