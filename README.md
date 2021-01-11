@@ -5,6 +5,7 @@ Ein paar meiner Lieblingsrezepte
 
 ## Basics
 - [Hähnchenbrust](Haehnchenbrust.md)
+- [Kidbeybohnen Patties](Kidneybohnen_Patties.md)
 - [One Pot Pasta](One_Pot_Pasta.md)
 
 ## Italienisch
