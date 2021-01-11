@@ -28,4 +28,7 @@
  
  - Patties formen und in einer Pfanne von beiden Seiten durchbraten
  
+## Tipp
+Spicy Patties: 0,5 - 1 cm Chili feinwürfeln und zusammen mit der Zwiebel und dem Knoblauch braten
+ 
 *Guten Appetit*
