@@ -1,6 +1,8 @@
-#Kidneybohnen Patties
+# Kidneybohnen Patties
 
 ![img](imgs/Kidneybohnen_Patties.jpg)
+
+Für 3-4 Burgerpatties oder 12 Minipatties
 
 ## Zutaten
 - 250 g Kidneybohnen
