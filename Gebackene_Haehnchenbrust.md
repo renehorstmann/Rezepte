@@ -3,7 +3,7 @@
 ![img](imgs/Gebackene_Haehnchenbrust.jpg)
 
 ## Rezept
-- Gemüsereste falls vorhanden in eine Auflaufform geben und mit einem Schuss Weißwein bedecken (Reste/Rand von Zwiebeln, Paprika, Zucchini, Salat, ...)
+- Optional: Gemüsereste falls vorhanden in eine Auflaufform geben und mit einem Schuss Weißwein bedecken (Reste/Rand von Zwiebeln, Paprika, Zucchini, Salat, ...)
 
 - Auflaufform in den Ofen stellen und auf 160°C erhitzen
 
