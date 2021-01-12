@@ -5,7 +5,7 @@
 Für eine Portion:
 
 ## Zutaten
-- 150 g Kartoffeln
+- 150 g Kartoffeln (mehlig kochend)
 - 50 g Mehl
 - 1 Ei
 
