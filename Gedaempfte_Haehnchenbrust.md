@@ -5,9 +5,9 @@
 ## Rezept
 - Hähnchenbrust marinieren und mindestens 30 Minuten einziehen lassen
 
-- Hähnchenbrust 15 Minuten in Brühe der Wein dämpfen
+- Hähnchenbrust 15 Minuten in Brühe oder Wein dämpfen
 
-- Hähnchenbrust kurz scharf von beiden Seiten anbraten, um eine Kruste zu erzeugen
+- Für eine Kruste: Hähnchenbrust kurz scharf von beiden Seiten anbraten
 
 ## Tipp
 Mit Salz marinieren für eine Salzkruste
