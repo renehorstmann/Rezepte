@@ -1,12 +1,12 @@
 # Rezepte
 Ein paar meiner Lieblingsrezepte
 
+## Alles mögliche
 - [Erdnusshähnchen auf Salatbett](Erdnusshaehnchen_auf_Salatbett.md)
-
-## Basics
 - [Hähnchenbrust](Haehnchenbrust.md)
 - [Kidneybohnen Patties](Kidneybohnen_Patties.md)
 - [One Pot Pasta](One_Pot_Pasta.md)
+- [Pilz Sauce](Pilz_Sauce.md)
 
 ## Italienisch
 - [Bolognese Sauce](Bolognese_Sauce.md)
