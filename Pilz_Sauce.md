@@ -15,7 +15,7 @@
 
 - Zwiebel und Knoblauch in einem Topf mit Olivenöl glasig braten
 
-- Pilze bei mittlerer Hitze mit rösten
+- Pilze bei mittlerer Hitze mit rösten, bis die Pilze leich braun werden
 
 - Topfinhalt salzen um so den Pilzen das Wasser zu entziehen
 
