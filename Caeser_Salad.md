@@ -5,7 +5,7 @@
 Für eine Portion:
 
 ## Zutaten
-- 1x [Gebratene Hähnchenbrust](Gebackene_Haehnchenbrust.md)
+- 1x [Gebackene Hähnchenbrust](Gebackene_Haehnchenbrust.md)
 - [Caeser Sauce](Caeser_Sauce.md)
 - Romana Salat
 - Eisberg Salat
