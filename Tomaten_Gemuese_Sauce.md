@@ -6,7 +6,7 @@ Für zwei Portionen
 
 ## Zutaten
 - 4 Tomaten
-- Zwiebelmix (z. b. Rote, Gemüse und Schalotte)
+- Zwiebelmix (3 Stück) (z. b. Rote, Gemüse und Schalotte)
 - Knoblauchzehe 
 - 1 Möhre
 - 1/4 Zucchini
@@ -18,7 +18,7 @@ Für zwei Portionen
 
 - Tomaten würfeln
 
-- Zwiebel klein würfeln
+- Zwiebeln klein würfeln
 
 - Möhre in Scheiben schneiden
 
