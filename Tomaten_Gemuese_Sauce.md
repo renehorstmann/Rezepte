@@ -46,7 +46,7 @@ Für zwei Portionen
 
 - Auf mittlere Hitze stellen und mit Topfdeckel rund 2 Stunden köcheln lassen, gelegentlich rühren
 
-- Knoblauch herausfischen
+- Knoblauch und Lorbeerblätter herausfischen
 
 - Würzen und abschmecken mit
   - Oregano
