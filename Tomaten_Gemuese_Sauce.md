@@ -14,7 +14,7 @@ Für zwei Portionen
 - 100 ml Rotwein
 
 # Rezept
-- Tomatem blanchieren und häuten
+- Tomaten blanchieren und häuten
 
 - Tomaten würfeln
 
