@@ -26,7 +26,7 @@ Für zwei Portionen
 
 - Knoblauchzehe eindrücken
 
-- 3 Esslöffel Olivenöl in einem Topf erhitzen und die Möhren kurz dünsten
+- 3 Esslöffel Olivenöl in einem Topf erhitzen und die Möhre kurz dünsten
 
 - Zwiebel und Knoblauch hinzugeben, rühren und weiter braten
 
