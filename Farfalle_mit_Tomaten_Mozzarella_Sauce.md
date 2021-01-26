@@ -1,4 +1,4 @@
-# Farfalle mit Tometen-Mozzarella-Sauce
+# Farfalle mit Tometen Mozzarella Sauce
 
 ![img](imgs/Farfalle_mit_Tomaten_Mozzarella_Sauce.jpg)
 
