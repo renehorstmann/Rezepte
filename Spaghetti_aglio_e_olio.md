@@ -11,7 +11,7 @@ Für eine Portion:
 ## Rezept
 - Spaghetti kochen
 
-- Knonlauch fein würfeln
+- Knoblauch fein würfeln
 
 - Während der letzten 3-4 Minuten kochzeit reichlich Olivenöl (2-3 Esslöffel) in einer großen Pfanne erhitzen
 
@@ -23,6 +23,6 @@ Für eine Portion:
 
 ## Tipp
 Für Spaghetti aglio, olio e peperoncino Chili zusammen mit dem Knoblauch braten.
-Oder Petersilie am Ende hinzugeben.
+Oder Petersilie am Ende aufstreuen.
 
 *Guten Appetit*
