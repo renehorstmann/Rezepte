@@ -1,7 +1,7 @@
 # Rezepte
 Ein paar meiner Lieblingsrezepte
 
-## Alles mögliche
+## Alles Mögliche
 - [Erdnusshähnchen auf Salatbett](Erdnusshaehnchen_auf_Salatbett.md)
 - [Hähnchenbrust](Haehnchenbrust.md)
 - [Kidneybohnen Patties](Kidneybohnen_Patties.md)
@@ -12,7 +12,7 @@ Ein paar meiner Lieblingsrezepte
 - [Bolognese Sauce](Bolognese_Sauce.md)
 - [Farfalle all’amatriciana](Farfalle_all_amatriciana.md)
 - [Farfalle mit pikanter Garnelensauce](Farfalle_mit_pikanter_Garnelensauce.md)
-- [Farfalle mit Tomaten-Mozzarella-Sauce](Farfalle_mit_Tomaten_Mozzarella_Sauce.md)
+- [Farfalle mit Tomaten Mozzarella Sauce](Farfalle_mit_Tomaten_Mozzarella_Sauce.md)
 - [Gnocchi](Gnocchi.md)
 - [Penne all Arrabbiata](Penne_all_Arrabbiata.md)
 - [Pizzateig](Pizzateig.md)
