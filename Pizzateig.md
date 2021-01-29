@@ -7,7 +7,7 @@ Für eine Pizza:
 ## Zutaten
 - 150 g Mehl Typ 00
 - 75 ml leicht kühles Wasser (50% zum Mehl)
-- 1 Teelöffel / 6 g Salz
+- 1 Teelöffel / 5 g Salz
 - Hefe siehe Bild (42 g Hefewürfel -> ~1 g):
 
 ![hefe](imgs/Pizzateig_Hefe.jpg)
@@ -17,7 +17,7 @@ Für eine Pizza:
 
 - Hefe hineinrühren
 
-- Den Rest des Mehls hinzugeben und alles mit der Hand oder einem Knetmixer durchkneten
+- Den Rest des Mehls hinzugeben und alles mit der Hand durchkneten
 
 - Den Teig in eine eingeölte Schüssel legen und mit mit dem Öl einpinseln
 
