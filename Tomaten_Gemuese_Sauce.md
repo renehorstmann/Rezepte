@@ -44,7 +44,7 @@ Für zwei Portionen
   - Lorbeerblätter 
   - Einen Schuss Zitronensaft 
 
-- Auf mittlere Hitze stellen und mit Topfdeckel rund 2 Stunden köcheln lassen, gelegentlich rühren
+- Auf mittlere Hitze stellen und mit Topfdeckel rund 1-2 Stunden köcheln lassen, gelegentlich rühren
 
 - Knoblauch und Lorbeerblätter herausfischen
 
