@@ -16,7 +16,7 @@ Für eine Portion:
 
 - 1 Esslöffel Rapsöl, 1 Esslöffel Rotweinessig, Salz und Pfeffer hinzugeben
 
-- Steak-Gemisch durchrühren und >60 Minuten ziehen lassen (ggf. im Kühlschrank)
+- Steak-Gemisch durchrühren und >60 Minuten ziehen lassen (z. B. im Kühlschrank)
 
 - Steak-Gemisch mit Rapsöl in einer Pfanne scharf anbraten (ca. 7 Minuten mit rühren)
 
@@ -24,6 +24,6 @@ Für eine Portion:
 
 - In den Backofen auf Grillstufe schieben und warten bis der Käse geschmolzen ist (ca. 3 Minuten)
 
-- Ggf. mit BBQ-Sauce Zwiebelringen, Mais, Tomate, Salat, ... belegen
+- Je nach belieben mit BBQ-Sauce Zwiebelringen, Mais, Tomate, Salat, ... belegen
 
 *Guten Appetit*
