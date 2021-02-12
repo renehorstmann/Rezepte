@@ -19,6 +19,8 @@ Für eine Portion:
 die Chili in Scheiben schneiden 
 und beides in 2-3 Esslöffel Olivenöl anbraten
 
+- Mit Weißwein und einem Spritzer Zitronensaft ablöschen
+
 - Die Garnelen hinzugeben und nach 2 Minuten wenden
 
 - 1-2 Esslöffel Tomatenmark und Nudelwasser zur Pfanne geben
@@ -31,5 +33,8 @@ und beides in 2-3 Esslöffel Olivenöl anbraten
 
 - Parmesan in die Pfanne reiben und unterrühren
 
+
+## Tipp
+Zusätzlich eine rote Zwiebel grob würfeln und mit braten
 
 *Guten Appetit*
