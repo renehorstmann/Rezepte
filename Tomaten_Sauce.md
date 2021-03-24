@@ -18,7 +18,7 @@ Tomaten in 1 L kochendes Wasser geben, 45 Sekunden warten und ausgießen, dann m
 
 - Tomaten, Knoblauch und Zwiebeln in Stücke schneiden
 
-- (kleiner) Topf auf hohe Hitze stellen und 3 Esslöffel Olivenöl hinein geben
+- (kleiner) Topf auf hohe Hitze stellen und ein wenig Olivenöl hinein geben
 
 - Knoblauch und Zwiebeln hinzugeben und unter rühren glasig dünsten (nicht anbrennen lassen) (ca. 1 Minute)
 
@@ -28,6 +28,7 @@ Tomaten in 1 L kochendes Wasser geben, 45 Sekunden warten und ausgießen, dann m
 
 - Auf mittlere Hitze stellen und folgendes hinzugeben:
   + Balsamico Essig
+  + 2 Esslöffel Olivenöl
   + Prise Zucker
   + Teelöffel Salz
 
