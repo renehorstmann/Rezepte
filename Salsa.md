@@ -16,7 +16,7 @@ Für eine Schüssel:
 
 - Abgießen und abkühlen lassen
 
-- Tomatenstiele herausschneiden
+- Tomaten häuten und Tomatenstiele herausschneiden
 
 - Tomaten würfeln und abtropfen lassen
 
