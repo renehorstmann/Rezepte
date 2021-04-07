@@ -14,9 +14,11 @@ Für eine Schüssel:
 ## Rezept
 - Tomaten 15 Minuten in einem Topf mit 1 L Wasser kochen 
 
-- Abgießen, Haut abziehen (Vorsicht!) und abkühlen lassen
+- Abgießen und abkühlen lassen
 
 - Tomatenstiele herausschneiden
+
+- Tomaten würfeln und abtropfen lassen
 
 - Zwiebel, Knoblauchzehe, Paprika und Chili fein würfeln
 
@@ -26,8 +28,6 @@ Für eine Schüssel:
   + Salz und Pfeffer
   + Prise Zucker
 
-- Schüsselinhalt mit der Hand zerkleinern (evt. harte Tomatenstücke entfernen)
-
-- Solange wiederholt einen Esslöffel Tomatenmark unterrühren, bis die gewünschte Konsistenz erreicht ist.
+- Solange wiederholt einen Esslöffel Tomatenmark unterrühren, bis die gewünschte Konsistenz erreicht ist (ca. 3x).
 
 *Guten Appetit*
