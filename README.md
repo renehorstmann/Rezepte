@@ -3,6 +3,7 @@ Ein paar meiner Lieblingsrezepte
 
 ## Alles Mögliche
 - [Erdnusshähnchen auf Salatbett](Erdnusshaehnchen_auf_Salatbett.md)
+- [Gulasch](Gulasch.md)
 - [Hähnchenbrust](Haehnchenbrust.md)
 - [Kidneybohnen Patties](Kidneybohnen_Patties.md)
 - [One Pot Pasta](One_Pot_Pasta.md)
