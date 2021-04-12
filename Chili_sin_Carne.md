@@ -22,7 +22,7 @@ Für 3-4 Poritionen
 
 - Tomaten, Paprika, Möhre und Zucchini würfeln
 
-- Knoblauchzeheb und Chilis klein würfeln
+- Knoblauchzehen und Chilis klein würfeln
 
 - Paprika in einem Topf mit 3 Esslöffel Olivenöl braten
 
@@ -37,7 +37,7 @@ Für 3-4 Poritionen
   - Pfeffer
   - 1 Teelöffel Kreuzkümmel 
   - 1 Teelöffel Paprikapulver
-  - 1 flacher Teelöffel Zucker
+  - 1 gestrichener Teelöffel Zucker
   - 20 ml Rotweinessig
   - Zitronen oder Limettensaft
 
@@ -46,6 +46,7 @@ Für 3-4 Poritionen
 - Mais und abgetropfte Kidneybohnen einrühren
 
 - Die Zwiebeln grob würfeln und auch einrühren
+  - können auch vorher angebraten werden
 
 - Weitere 15 Minuten köcheln
 
