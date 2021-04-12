@@ -28,6 +28,7 @@ Ein paar meiner Lieblingsrezepte
 - [Ratatouille Confit Byaldi](Ratatouille_Confit_Byaldi.md)
 
 ## Mexikanisch
+- [Chili sin Carne](Chili_sin_Carne.md)
 - [Salsa](Salsa.md)
 - [Tacos](Tacos.md)
 - [Tortillas](Tortillas.md)
