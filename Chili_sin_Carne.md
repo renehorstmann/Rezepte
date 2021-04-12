@@ -32,7 +32,14 @@ Für 3-4 Poritionen
 
 - 2 Esslöffel Tomatenmark unterrühren
 
-- Mit Salz, Pfeffer, 1 Teelöffel Kreuzkümmel und 1 Teelöffel Paprikapulver würzen
+- Würzen mit:
+  - Salz
+  - Pfeffer
+  - 1 Teelöffel Kreuzkümmel 
+  - 1 Teelöffel Paprikapulver
+  - 1 flacher Teelöffel Zucker
+  - 20 ml Rotweinessig
+  - Zitronen oder Limettensaft
 
 - Mit Deckel +1 Stunde köcheln lassen
 
