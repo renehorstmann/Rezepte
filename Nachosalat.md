@@ -47,6 +47,6 @@ Maggie Texicana Salsa Sauce
 
 - Ein paar Tortilla Chips zur Deko beseite legen und die restlichen Chips in der Packung zerdrücken
 
-- Die Chipskrümel als letzte Schicht auf den Salat legen und mit ddn beiseite gelegten Chips garnieren
+- Die Chipskrümel als letzte Schicht auf den Salat legen und mit den beiseite gelegten Chips garnieren
 
 *Guten Appetit*
