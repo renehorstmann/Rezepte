@@ -16,7 +16,7 @@
 - Für ca. 20 Minuten backen, falls vorhanden: Mit Fleischthermometer 72°C Kerntemperatur abwarten
 
 ## Tipp
-Alternativ kann man auch eine Salzkruste erzeugen, indem man die Hähnchenbrust >30 Minuten vorher mit Salz würzt
+Alternativ kann man auch eine Salzkruste erzeugen, indem man die Hähnchenbrust +30 Minuten vorher mit Salz würzt
 
 [Weitere Zubereitungsarten für Hähnenbrüste](Haehnchenbrust.md)
 
