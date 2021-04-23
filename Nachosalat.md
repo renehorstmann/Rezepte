@@ -2,7 +2,7 @@
 
 ![img](imgs/Nachosalat.jpg)
 
-Für eine große Schüssel / 4 große Portionen
+Für eine große Schüssel / Schale
 
 ## Zutaten
 - 500 g Rinderhack
