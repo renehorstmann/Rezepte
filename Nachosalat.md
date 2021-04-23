@@ -10,12 +10,12 @@ Für eine große Schüssel / 4 große Portionen
 - 2 große rote Zwiebeln
 - 4 Chilis, z. B. Rawit
 - 1/2 Limette
-- ? g Tortilla Chips / Nachos, z. B. gesalzen
+- 250 g Tortilla Chips / Nachos, z. B. gesalzen
 - 1/2 Eisbergsalat
-- ? g Kidneybohnen
-- ? g Mais
-- ? g Cremé Fraich
-- ? g Reibkäse
+- 250 g Kidneybohnen
+- 250 g Mais
+- 150 g Cremé Fraich
+- 125 g Reibkäse
 
 ![img](imgs/Nachosalat_Sauce.jpg)
 Maggie Texicana Salsa Sauce
