@@ -29,6 +29,7 @@ Ein paar meiner Lieblingsrezepte
 
 ## Mexikanisch
 - [Chili sin Carne](Chili_sin_Carne.md)
+- [Nachosalat](Nachosalat.md)
 - [Salsa](Salsa.md)
 - [Tacos](Tacos.md)
 - [Tortillas](Tortillas.md)
