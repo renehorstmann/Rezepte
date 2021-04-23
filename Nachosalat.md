@@ -38,15 +38,15 @@ Maggie Texicana Salsa Sauce
 - Den Eisbergsalat würfeln und waschen
 
 - Den Salat in einer großen Schüssel / Schale schichten:
-  1. Hackfleischsauce
-  2. Vorher abgetropfte Kidneybohnen
-  3. Mais
-  4. Eisbergsalat
-  5. Cremé Fraich
-  6. Reibkäse
+  - Hackfleischsauce
+  - Vorher abgetropfte Kidneybohnen
+  - Mais
+  - Eisbergsalat
+  - Cremé Fraich
+  - Reibkäse
 
 - Ein paar Tortilla Chips zur Deko beseite legen und die restlichen Chips in der Packung zerdrücken
 
-- Die Chipskrümel als 7. Schicht auf den Salat legen und mit ddn beiseite gelegten Chips garnieren
+- Die Chipskrümel als letzte Schicht auf den Salat legen und mit ddn beiseite gelegten Chips garnieren
 
 *Guten Appetit*
