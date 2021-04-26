@@ -24,6 +24,6 @@ Für 4 Portionen
 
 - Sauce fein pürieren
 
-- Eventuell bis zu zwei Esslöffel Wasser hinzu geben
+- Je nach Konsistenz einige Esslöffel Wasser mit einrühren
 
 *Guten Appetit*
