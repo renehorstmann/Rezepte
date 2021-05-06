@@ -8,7 +8,7 @@ Für eine Pizza:
 - 150 g Mehl Typ 00
 - 90 ml leicht kühles Wasser (60% zum Mehl)
 - 1 Teelöffel / 5 g Salz
-- Hefe siehe Bild (42 g Hefewürfel -> ~1 g):
+- ~1 g Hefe siehe Bild (42 g Hefewürfel -> ~1 g):
 
 ![hefe](imgs/Pizzateig_Hefe.jpg)
 
@@ -17,7 +17,7 @@ Für eine Pizza:
 
 - Hefe hineinrühren
 
-- Den Rest des Mehls hinzugeben und alles mit der Hand durchkneten
+- Den Rest des Mehls hinzugeben und alles mit der Hand gut durchkneten
 
 - Den Teig in eine eingeölte Schüssel legen und mit mit dem Öl einpinseln
 
@@ -38,6 +38,18 @@ Für eine Pizza:
 - Die Kugel in der Mitte eindrücken
 
 - Die Pizza flach ziehen: durch eindrücken des Teigs nach außen hin und drehen der Pizza
+
+## Hinweiß
+Die Teigkugeln sollten am Ende nicht zu elastiasch, klebrig und keine trockene Kruste haben, bevor sie zur Pizza gezogen werden.
+- zu klebrig:
+  - mit Mehl bestreuen 
+  - weniger Wasser verwenden (50-55%, statt 60%)
+- zu elastisch:
+  - weniger Wasser verwenden
+  - Öl in der ersten Ruhephase vergessen?
+- zu trocken:
+  - zu viel Mehl vor der zweiten Ruhephase
+  - Trockentücher nicht feucht genug?
 
 ## Tipp
 Mit warmem Wasser, mehr Hefe und einem warmem Ruheort, 
