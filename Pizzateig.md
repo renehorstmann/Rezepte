@@ -42,9 +42,10 @@ Für eine Pizza:
 ## Hinweiß
 Die Teigkugeln sollten am Ende nicht zu elastiasch, klebrig und keine trockene Kruste haben, bevor sie zur Pizza gezogen werden.
 - zu klebrig:
-  - mit Mehl bestreuen 
+  - zum Retten mit Mehl bestreuen 
   - weniger Wasser verwenden (50-55%, statt 60%)
 - zu elastisch:
+  - zum Retten mit einer Teigrolle flachrollen, wenn es von Hanf nicht geht
   - weniger Wasser verwenden
   - Öl in der ersten Ruhephase vergessen?
 - zu trocken:
