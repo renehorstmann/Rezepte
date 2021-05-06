@@ -8,7 +8,7 @@ Für eine Pizza:
 - 150 g Mehl Typ 00
 - 90 ml leicht kühles Wasser (60% zum Mehl)
 - 1 Teelöffel / 5 g Salz
-- ~1 g Hefe siehe Bild (42 g Hefewürfel -> ~1 g):
+- ~1 g Hefe siehe Bild (42 g Hefewürfel):
 
 ![hefe](imgs/Pizzateig_Hefe.jpg)
 
