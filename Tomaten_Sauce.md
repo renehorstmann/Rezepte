@@ -5,7 +5,7 @@
 Für ca. 2 Portionen:
 
 ## Zutaten
-- 4 Tomaten
+- 4 Tomaten (oder gehackte Tomaten aus der Dose, siehe Tipp unten)
 - 1 Knoblauchzehe
 - 1 Zwiebel
 - 6 Basilikumblätter (geht auch TK)
@@ -32,7 +32,7 @@ Tomaten in 1 L kochendes Wasser geben, 45 Sekunden warten und ausgießen, dann m
   + Prise Zucker
   + Teelöffel Salz
 
-- Mit Topfdeckel mindestens 20 Minuten köcheln lassen, gelegentlich umrühren
+- Mit Topfdeckel +30 Minuten (je nach gewünschter Konsistenz) köcheln lassen, gelegentlich umrühren
 
 - Mit dem Handmixer die Sauce pürieren
 
