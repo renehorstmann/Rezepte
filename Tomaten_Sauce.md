@@ -10,7 +10,7 @@ Für ca. 2 Portionen:
 - 1 Zwiebel
 - 6 Basilikumblätter (geht auch TK)
 - 100 ml Rotwein
-- 25 ml Balsamico Essig
+- 25 ml Balsamico Essig (ca. 3 Esslöffel)
 
 ## Rezept
 - Tomaten blanchieren und häuten: 
