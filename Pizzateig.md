@@ -35,6 +35,8 @@ Für eine Pizza:
 
 - Vorsichtig eine Pizzakugel herausnehmen und auf eine mit Mehl bestreute Arbeitsfläche legen
 
+- Je nach Teigfeuchte einmehlen, damit der Teig außen trocken wird
+
 - Die Kugel in der Mitte eindrücken
 
 - Die Pizza flach ziehen: durch eindrücken des Teigs nach außen hin und drehen der Pizza
