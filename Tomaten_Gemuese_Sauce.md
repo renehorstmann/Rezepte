@@ -20,7 +20,7 @@ Für zwei Portionen
 
 - Zwiebeln klein würfeln
 
-- Möhre in Scheiben schneiden
+- Möhre in Scheiben, oder Halbscheiben schneiden
 
 - Zucchini würfeln
 
