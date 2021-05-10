@@ -51,7 +51,7 @@ Für zwei Portionen
 - Würzen und abschmecken mit
   - Oregano
   - Pfeffer
-  - 1/2 Teelöffel Chili
+  - 1/4 - 1/2 Teelöffel Chili
   - 1/2 Teelöffel Kreuzkümmel
   - 1 Esslöffel Olivenöl
   
