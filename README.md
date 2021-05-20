@@ -16,6 +16,7 @@ Ein paar meiner Lieblingsrezepte
 - [Farfalle mit Tomaten Mozzarella Sauce](Farfalle_mit_Tomaten_Mozzarella_Sauce.md)
 - [Gnocchi](Gnocchi.md)
 - [Penne all Arrabbiata](Penne_all_Arrabbiata.md)
+- [Peperonata](Peperonata.md)
 - [Pizzateig](Pizzateig.md)
 - [Pizza Margherita](Pizza_Margherita.md)
 - [Spaghetti aglio e olio](Spaghetti_aglio_e_olio.md)
