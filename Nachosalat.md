@@ -6,7 +6,7 @@ Für eine große Schüssel / Schale
 
 ## Zutaten
 - 500 g Rinderhack
-- 1 Flasche Maggie Texicana Salsa
+- 1 Flasche Maggi Texicana Salsa
 - 2 große rote Zwiebeln
 - 4 Chilis, z. B. Rawit
 - 1/2 Limette
