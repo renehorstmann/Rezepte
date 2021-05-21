@@ -18,7 +18,7 @@ Für eine große Schüssel / Schale
 - 125 g Reibkäse
 
 ![img](imgs/Nachosalat_Sauce.jpg)
-Maggie Texicana Salsa Sauce
+Maggi Texicana Salsa Sauce
 
 ## Rezept
 - Die Zwiebeln und die Chilis klein würfeln
