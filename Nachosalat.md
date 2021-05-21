@@ -37,7 +37,7 @@ Maggi Texicana Salsa Sauce
 
 - Den Eisbergsalat würfeln und waschen
 
-- Den Salat in einer großen Schüssel / Schale schichten:
+- Den Nachosalat in einer großen Schüssel / Schale schichten:
   - Hackfleischsauce
   - Vorher abgetropfte Kidneybohnen
   - Mais
