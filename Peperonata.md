@@ -11,7 +11,7 @@ Für 2-3 Portionen
 - 1 Dose geschälte Tomaten (400 g)
 
 ## Rezept
-- Paprika und Zwiebel grob würfeln oder in länglich schneiden
+- Paprika und Zwiebel grob würfeln oder länglich schneiden
 
 - Knoblauchzehen eindrücken
 
