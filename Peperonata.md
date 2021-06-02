@@ -26,7 +26,7 @@ Für 2-3 Portionen
 
 - Mit 50 ml Weißwein die Dose auswaschen und auch zur Pfanne geben
 
-- Mit Pfeffer würzen und unter gelegentlichem Rühren köcheln lassen, bis die gewünschte Konsistenz erreicht ist
+- Mit Salz und Pfeffer würzen und unter gelegentlichem Rühren köcheln lassen, bis die gewünschte Konsistenz erreicht ist
   - Tomaten sollten sich auflösen, ansonsten zwischendurch zerquetschen
 
 *Guten Appetit*
