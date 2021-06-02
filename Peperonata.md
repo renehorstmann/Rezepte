@@ -9,6 +9,7 @@ Für 2-3 Portionen
 - 3 Zwiebeln
 - 1-2 Knoblauchzehen
 - 1 Dose geschälte Tomaten (400 g)
+- 50 ml Weißwein
 
 ## Rezept
 - Paprika und Zwiebel grob würfeln oder länglich schneiden
