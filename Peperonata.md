@@ -22,6 +22,8 @@ Für 2-3 Portionen
 
 - Wenn die Zwiebeln glasig werden, salzen, Hitze herabstellen und ein paar Minuten rühren
 
+- Knoblauchzehen herausfischen
+
 - Vorsichtig die ganze Dose Tomaten einschütten
 
 - Mit 50 ml Weißwein die Dose auswaschen und auch zur Pfanne geben
