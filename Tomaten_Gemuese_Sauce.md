@@ -10,6 +10,7 @@ Für zwei Portionen
 - Knoblauchzehe 
 - 1 Möhre
 - 1/4 Zucchini
+- 1 Stange Staudensellerie
 - Ein paar Lorbeerblätter 
 - 100 ml Rotwein
 
@@ -22,7 +23,7 @@ Für zwei Portionen
 
 - Möhre in Scheiben, oder Halbscheiben schneiden
 
-- Zucchini würfeln
+- Zucchini und Sellerie würfeln
 
 - Knoblauchzehe eindrücken
 
@@ -30,9 +31,9 @@ Für zwei Portionen
 
 - Zwiebel und Knoblauch hinzugeben, rühren und weiter braten
 
-- Zucchini hinzugeben
+- Zucchini ubd Sellerie hinzugeben
 
-- 2 Teelöffel Salz auf die Zucchini streuen
+- 2 Teelöffel Salz auf die Zucchini und Sellerie streuen
 
 - Warten bis die Zwiebeln glasig werden
 
