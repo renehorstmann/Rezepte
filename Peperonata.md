@@ -31,4 +31,8 @@ Für 2-3 Portionen
 - Mit Salz und Pfeffer würzen und unter gelegentlichem Rühren köcheln lassen, bis die gewünschte Konsistenz erreicht ist
   - Tomaten mit dem Pfannenwender zerquetschen, sodass sie sich auflösen
 
+## Tipp
+Am Ende mit Oregano würzen.
+Passt gut zu Penne Pasta.
+
 *Guten Appetit*
