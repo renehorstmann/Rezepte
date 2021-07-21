@@ -1,6 +1,6 @@
 # Spaghetti del'orto
 
-| Bild folgt in kürze
+> Bild folgt in kürze
 
 Für eine Portion:
 
