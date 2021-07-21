@@ -22,6 +22,7 @@ Ein paar meiner Lieblingsrezepte
 - [Pizza Margherita](Pizza_Margherita.md)
 - [Spaghetti aglio e olio](Spaghetti_aglio_e_olio.md)
 - [Spaghetti Carbonara](Spaghetti_Carbonara.md)
+- [Spaghetti del'orto](Spaghetti_del_orto.md)
 - [Tagliatelle al salmone e pesto](Tagliatelle_al_salmone_e_pesto.md)
 - [Tomaten Sauce](Tomaten_Sauce.md)
 - [Tomaten Gemüse Sauce](Tomaten_Gemuese_Sauce.md)
