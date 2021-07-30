@@ -1,6 +1,6 @@
 # Spaghetti del'orto
 
-> Bild folgt in kürze
+![img](imgs/Spaghetti_del_orto.jpg)
 
 Für eine Portion:
 
