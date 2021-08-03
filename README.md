@@ -2,6 +2,7 @@
 Ein paar meiner Lieblingsrezepte
 
 ## Alles Mögliche
+- [Bolognese Sauce](Bolognese_Sauce.md)
 - [Erdnusshähnchen auf Salatbett](Erdnusshaehnchen_auf_Salatbett.md)
 - [Gulasch](Gulasch.md)
 - [Hähnchenbrust](Haehnchenbrust.md)
@@ -10,7 +11,6 @@ Ein paar meiner Lieblingsrezepte
 - [Pilz Sauce](Pilz_Sauce.md)
 
 ## Italienisch
-- [Bolognese Sauce](Bolognese_Sauce.md)
 - [Farfalle all’amatriciana](Farfalle_all_amatriciana.md)
 - [Farfalle mit pikanter Garnelensauce](Farfalle_mit_pikanter_Garnelensauce.md)
 - [Farfalle mit Tomaten Mozzarella Sauce](Farfalle_mit_Tomaten_Mozzarella_Sauce.md)
