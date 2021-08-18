@@ -15,7 +15,7 @@ Für eine Portion:
 ## Rezept
 - Tomaten vierteln, entkernen und würfeln
 
-- Die Tomatenkerne klein "würfeln"
+- Die Tomatenkerne klein hacken
 
 - Spaghetti 80% der Kochzeit kochen
 
