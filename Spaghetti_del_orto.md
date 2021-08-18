@@ -5,6 +5,7 @@
 Für eine Portion:
 
 ## Zutaten
+- 100 g Spaghetti
 - 2 Tomaten
 - 1 kleine Zwiebel
 - 1 Knoblauchzehe
