@@ -13,7 +13,7 @@ Für eine Portion:
 - 5 Stängel Petersilie
 
 ## Rezept
-- Tomaten vierteln und entkernen, Tomatenschalen und Kerne seperat aufbewahren.
+- Tomaten vierteln und entkernen, Tomatenschalen und Kerne seperat aufbewahren
 
 - Tomatenschalten würfeln
 
