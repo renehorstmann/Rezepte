@@ -15,7 +15,7 @@ Für eine Portion:
 ## Rezept
 - Tomaten vierteln und entkernen, Tomatenschalen und Kerne seperat aufbewahren
 
-- Tomatenschalten würfeln
+- Tomatenschalen würfeln
 
 - Tomatenkerne klein hacken
 
