@@ -13,9 +13,11 @@ Für eine Portion:
 - 5 Stängel Petersilie
 
 ## Rezept
-- Tomaten vierteln, entkernen und würfeln
+- Tomaten vierteln und entkernen, Tomatenschalen und Kerne seperat aufbewahren.
 
-- Die Tomatenkerne klein hacken
+- Tomatenschalten würfeln
+
+- Tomatenkerne klein hacken
 
 - Spaghetti 80% der Kochzeit kochen
 
@@ -35,9 +37,12 @@ Für eine Portion:
 
 - Fertige Spaghetti direkt aus dem Topf in die Pfanne geben und das Nudelsalzwasser aufbewahren
 
-- Wenn die Spaghetti zu trocken werden, ein wenig Nudelsalzwasser nach kippen
+- 1-2 Minuten in der Pfanne unterrühren
+  - Wenn die Spaghetti zu trocken werden, ein wenig Nudelsalzwasser nach kippen
 
-- Die Tomaten und ein wenig Olivenöl in die Pfanne geben und 1-2 Minuten einrühren
+- Petersilie klein hacken
+
+- Die Tomaten, die Petersilie und ein wenig Olivenöl in die Pfanne geben und eine Minute einrühren
 
 - Mit Salz und Pfeffer abschmecken
 
