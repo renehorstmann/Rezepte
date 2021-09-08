@@ -2,7 +2,7 @@
 Ein paar meiner Lieblingsrezepte
 
 ## Alles Mögliche
-- [Bolognese Sauce](Bolognese_Sauce.md)
+- [Bolognese Sauce alla horsimann](Bolognese_Sauce_alla_horsimann.md)
 - [Erdnusshähnchen auf Salatbett](Erdnusshaehnchen_auf_Salatbett.md)
 - [Gulasch](Gulasch.md)
 - [Hähnchenbrust](Haehnchenbrust.md)
@@ -25,6 +25,7 @@ Ein paar meiner Lieblingsrezepte
 - [Spaghetti del'orto](Spaghetti_del_orto.md)
 - [Tagliatelle al salmone e pesto](Tagliatelle_al_salmone_e_pesto.md)
 - [Tomaten Sauce](Tomaten_Sauce.md)
+- [Tomaten Sauce leicht](Tomaten_Sauce_leicht.md)
 - [Tomaten Gemüse Sauce](Tomaten_Gemuese_Sauce.md)
 - [Tortiglioni al forno](Tortiglioni_al_forno.md)
 
