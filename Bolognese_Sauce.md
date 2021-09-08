@@ -1,6 +1,6 @@
-# Bolognese Sauce
+# Bolognese Sauce alla horsimann
 
-![img](imgs/Bolognese_Sauce.jpg)
+![img](imgs/Bolognese_Sauce_alla_horsimann.jpg)
 
 Für 3-4 Portionen
 
