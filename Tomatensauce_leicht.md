@@ -1,6 +1,6 @@
-# Tomatensauce leicht
+# Tomaten Sauce leicht
 
-![img](imgs/Tomatensauce_leicht.jpg)
+![img](imgs/Tomaten_Sauce_leicht.jpg)
 
 Für 2-3 Portionen
 
