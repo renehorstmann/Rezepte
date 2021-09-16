@@ -25,7 +25,7 @@ Für 2-3 Portionen / ca. 300 g Pasta
 
 - Je nach Pastasorte den flachen Teig schneiden
   - Für Tagliatelle / Bandnudeln:
-     - Den Teig dreifaltig auf ein Schneidbrett legen
+     - Den Teig vorsichtig dreifaltig auf ein Schneidbrett legen
      - 1 cm breite Streifen schneiden
      - Die Nudeln vorsichtig entfalten und in einem Teller beiseite legen
 
