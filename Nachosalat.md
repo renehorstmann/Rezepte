@@ -8,7 +8,7 @@ Für eine große Schüssel / Schale
 - 500 g Rinderhack
 - 1 Flasche Maggi Texicana Salsa
 - 2 große rote Zwiebeln
-- 4 Chilis, z. B. Rawit
+- 4 kleine Chilis, z. B. Rawit
 - 1/2 Limette
 - 250 g Tortilla Chips / Nachos, z. B. gesalzen
 - 1/2 Eisbergsalat
