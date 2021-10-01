@@ -18,7 +18,7 @@ Für 2-3 Portionen
 
 - Paprika und Knoblauchzehe in 3 Esslöffel Olivenöl in einer Pfanne braten
 
-- Zwiebel nach ein paar Minuten hinzugeben, eventuell mehr Olivenöl aufgießen
+- Zwiebel nach ein paar Minuten hinzugeben, eventuell mehr Olivenöl aufgießen und gelegentlich rühren
 
 - Wenn die Zwiebeln glasig werden, salzen, Hitze herabstellen und ein paar Minuten rühren
 
