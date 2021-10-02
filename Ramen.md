@@ -18,11 +18,11 @@ Für 4 Portionen:
 ## Rezept
 - Suppe mit Suppengrün, Knoblauch und reichlich Ingwer ansetzen
 
-- Hähnchenenkeulen 15 Minuten mit der Suppe mitkochen
+- Hähnchenenkeulen 15 Minuten in der Suppe mitkochen
 
-- 1-2 Knoblauchzehen (je nach Größe) und ein gleicher Teil Ingwer klein hacken
+- 1-2 Knoblauchzehen (je nach Größe) und einen gleichen Teil Ingwer klein hacken
 
-- In einer kleinen Pfanne das Knoblauch und den Ingwer zusammen mit Sojasauce, Austernsauce und Wein aufkochen lassen
+- In einer kleinen Pfanne den Knoblauch und den Ingwer zusammen mit Sojasauce, Austernsauce und Wein aufkochen lassen
   - Die Marinade / Suppenwürze abschmecken (mit Sojasauce, Austernsauce und Wein)
 
 - Die gekochten Hähnchenkeulen abkühlen lassen und das Fleisch herauszupfen
@@ -30,18 +30,18 @@ Für 4 Portionen:
 
 - Das Hähnchen mit der Marinade marinieren und mindestens 30 Minuten ziehen lassen
 
-- Gleichzeitig:
-  - Das Hähnchen für 8 Minuten bei 180° Ober/Unterhitze auf einem Backblech backen
-  - Die Mie-Nudeln kochen / ins warme Wasser legen (je nach Packungszubereitung)
-  - Die Eier hart kochen, pellen und halbieren
-  - Die Frühlingszwiebeln und Pilze in Scheiben schneiden
+- Anschließend:
+  - Das Hähnchen für 8 Minuten bei 180° Ober/Unterhitze auf einem Backblech backen,
+  - die Mie-Nudeln kochen / ins warme Wasser legen (je nach Packungszubereitung),
+  - die Eier hart kochen, pellen und halbieren,
+  - die Frühlingszwiebeln und Pilze in Scheiben schneiden
 
 - Das Suppengrün, etc. aus der Suppe fischen / abgießen und die Suppe / Brühe abschmecken
 
 - Zubereiten:
-  - 1-2 Esslöffel Marinade
-  - Nudeln
-  - Mit der Brühe aufgießen
-  - Mit Hähnchen, einem halben Ei, Pilzen, Frühlingszwiebeln und Sojasprossen servieren
+  - 1-2 Esslöffel Marinade in die Schüssel / den Teller geben,
+  - darauf die Nudeln,
+  - mit der Brühe aufgießen,
+  - mit Hähnchen, einem halben Ei, Pilzen, Frühlingszwiebeln und Sojasprossen servieren
 
 *Guten Appetit*
