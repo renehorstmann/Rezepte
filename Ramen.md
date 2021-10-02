@@ -6,7 +6,7 @@ Für 4 Portionen:
 
 ## Zutaten
 - 4 Hähnchenkeulen
-- Mie-Nudeln ohne Ei
+- 250 g Mie-Nudeln ohne Ei
 - 2 Eier
 - 2 Pilze
 - 3 Frühlingszwiebeln
