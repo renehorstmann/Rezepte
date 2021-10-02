@@ -18,7 +18,7 @@ Für 4 Portionen:
 ## Rezept
 - Suppe mit Suppengrün, Knoblauch und reichlich Ingwer ansetzen
 
-- Hähnenkeuelen 15 Minuten mit der Suppe mitkochen
+- Hähnenkeulen 15 Minuten mit der Suppe mitkochen
 
 - 1-2 Knoblauchzehen (je nach Größe) und eine gleicher Teil Ingwer klein hacken
 
