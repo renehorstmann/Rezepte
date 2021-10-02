@@ -20,7 +20,7 @@ Für 4 Portionen:
 
 - Hähnenkeulen 15 Minuten mit der Suppe mitkochen
 
-- 1-2 Knoblauchzehen (je nach Größe) und eine gleicher Teil Ingwer klein hacken
+- 1-2 Knoblauchzehen (je nach Größe) und ein gleicher Teil Ingwer klein hacken
 
 - In einer kleinen Pfanne das Knoblauch und den Ingwer zusammen mit Sojasauce, Austernsauce und Wein aufkochen lassen
   - Die Marinade / Suppenwürze mit den Saucen abschmecken
