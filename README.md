@@ -9,6 +9,7 @@ Ein paar meiner Lieblingsrezepte
 - [Kidneybohnen Patties](Kidneybohnen_Patties.md)
 - [One Pot Pasta](One_Pot_Pasta.md)
 - [Pilz Sauce](Pilz_Sauce.md)
+- [Ramen](Ramen.md)
 
 ## Italienisch
 - [Farfalle all’amatriciana](Farfalle_all_amatriciana.md)
