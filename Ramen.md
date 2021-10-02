@@ -23,7 +23,7 @@ Für 4 Portionen:
 - 1-2 Knoblauchzehen (je nach Größe) und ein gleicher Teil Ingwer klein hacken
 
 - In einer kleinen Pfanne das Knoblauch und den Ingwer zusammen mit Sojasauce, Austernsauce und Wein aufkochen lassen
-  - Die Marinade / Suppenwürze mit den Saucen abschmecken
+  - Die Marinade / Suppenwürze abschmecken (mit Sojasauce, Austernsauce und Wein)
 
 - Die gekochten Hähnchenkeulen abkühlen lassen und das Fleisch herauszupfen
   - Die Reste (Haut, Knochen, Fett, ...) wieder zur Suppe geben
