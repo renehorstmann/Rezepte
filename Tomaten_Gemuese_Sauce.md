@@ -31,7 +31,7 @@ Für zwei Portionen
 
 - Zwiebel und Knoblauch hinzugeben, rühren und weiter braten
 
-- Zucchini ubd Sellerie hinzugeben
+- Zucchini und Sellerie hinzugeben
 
 - 2 Teelöffel Salz auf die Zucchini und Sellerie streuen
 
