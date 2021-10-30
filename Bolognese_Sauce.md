@@ -26,7 +26,7 @@ Für 3-4 Portionen
 
 - Hackfleisch in der Pfanne auf hoher Hitze braten, bis kein Wasser mehr austritt
 
-- Mit dem Rotwein ablöschen
+- Rotwein aufgießen
 
 - In einer Schüssel 3 gehäufte Esslöffel Tomatenmark mit Brühe verrühren
 
