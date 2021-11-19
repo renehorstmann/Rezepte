@@ -1,6 +1,6 @@
 # Bolognese Sauce
 
-![img](imgs/Bolognese_Sauce.md)
+![img](imgs/Bolognese_Sauce.jpg)
 
 Für 3-4 Portionen
 
