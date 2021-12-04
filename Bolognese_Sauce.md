@@ -9,7 +9,7 @@ Für 3-4 Portionen
 - 100 g Panchetta
 - 1 große Zwiebel
 - 1 Möhre
-- 1 Stange Staudensellerie
+- 1-2 Stangen Staudensellerie
 - 100 ml Rotwein
 - 500 ml Brühe
 
