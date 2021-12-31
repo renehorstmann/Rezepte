@@ -22,7 +22,7 @@ Tomaten in 1 L kochendes Wasser geben, 45 Sekunden warten und ausgießen, dann m
 
 - Knoblauch und Zwiebeln hinzugeben und unter rühren glasig dünsten (nicht anbrennen lassen) (ca. 1 Minute)
 
-- Temperatur herunterstellen
+- Temperatur herunterstellen (oder kurz ausstellen)
 
 - Rotwein hinzugeben zum ablöschen (Vorsicht...)
 
