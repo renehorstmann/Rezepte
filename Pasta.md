@@ -7,7 +7,7 @@ Für 2-3 Portionen / ca. 300 g Pasta
 ## Zutaten
 - 150 g Mehl Typ 00
 - 50 g Hartweizengrieß
-- 2 mittel bis große Eier oder ca. 120 ml Wasser
+- 3 mittlere oder 2 große Eier oder ca. 120 ml Wasser
 
 ## Rezept
 - Zutaten in einer Schüssel mischen und durchkneten
