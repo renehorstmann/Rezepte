@@ -29,6 +29,8 @@ Für 4 Portionen:
 
 - Honig, Balsamicoessig, Olivenöl und Rotwein übergießen
 
+- Optional: Zum duechziehen lange kalt stellen, z. B. über Nacht
+
 - Im Backofen insgesamt +3,5 h bei +180°C mit Topfdeckel backen
   - nach 2,5 h das Fleisch wenden
   - Rotwein nachgießen, wenn die Flüssigkeit zu viel verdunstet
