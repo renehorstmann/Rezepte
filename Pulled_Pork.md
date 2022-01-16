@@ -25,7 +25,7 @@ Für 4 Portionen:
 
 - Gemüse auf das Schweinefleisch verteilen
 
-- Mit Reichlich Salz, Pfeffer und Paprikapulver würtzen
+- Mit Reichlich Salz, Pfeffer und Paprikapulver würzen
 
 - Honig, Balsamicoessig, Olivenöl und Rotwein übergießen
 
