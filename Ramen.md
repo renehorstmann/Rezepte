@@ -13,7 +13,7 @@ Für 4 Portionen:
 - Sojasprossen
 - Ingwer
 - Knoblauch
-- Suppengrün
+- Suppengrün (Porree, Möhre, Selliere, Zwiebel)
 
 ## Rezept
 - Suppe mit Suppengrün, Knoblauch und reichlich Ingwer ansetzen
