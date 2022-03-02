@@ -13,6 +13,8 @@ Für 2-3 Portionen
 ## Rezept
 - Knoblauch klein würfeln und mit Olivenöl in einem kleinem Topf glasig braten
 
+- Temperatur reduzieren
+
 - Vorsichtig die ganze Dose Tomaten hinzugeben und köcheln lassen
 
 - Den Weißweinessig, etwas Olivenöl und 2 Teelöffel Salz einrühren
