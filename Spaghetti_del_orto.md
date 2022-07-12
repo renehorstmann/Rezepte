@@ -9,7 +9,7 @@ Für eine Portion:
 - 2 Tomaten
 - 1 kleine Zwiebel
 - 1 Knoblauchzehe
-- 5 cm Staudensellerie
+- 10 cm Staudensellerie
 - 5 Stängel Petersilie
 
 ## Rezept
