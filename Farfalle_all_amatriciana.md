@@ -17,17 +17,18 @@ Für eine Portion:
 
 - Farfalle kochen (80% - 90% der Kochzeit)
 
-- Pancetta in einer großen Pfanne ohne Öl braten
+- Pancetta in einer großen Pfanne mit keinem oder ein wenig Öl braten
+  - Wenn der Panchetta genug Fett hat braucht man kein Öl
+
+- Knoblauchzehe mit dem Messer eindrücken und zur Pfanne geben
 
 - Zwiebel würfeln und nach 5 Minuten in die Pfanne hinzugeben
 
-- Knoblauchzehe mit dem Messer eindrücken und zur Pfanne geben
+- Wenn die Zwiebeln glasig sind Knoblauchzehe herausfischen
 
 - Mit einem Schuss Weißwein ablöschen
 
 - Kirschtomaten halbieren und hinzugeben
-
-- Knoblauchzehe herausfischen wenn die Farfalle fertig ist
 
 - Farfalle direkt aus dem Topf in die Pfanne geben und das Nudelsalzwasser aufbewahren
 
