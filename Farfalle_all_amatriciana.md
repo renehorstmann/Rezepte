@@ -22,7 +22,7 @@ Für eine Portion:
 
 - Knoblauchzehe mit dem Messer eindrücken und zur Pfanne geben
 
-- Zwiebel würfeln und nach 5 Minuten in die Pfanne hinzugeben
+- Zwiebel würfeln und nach ein paar Minuten in die Pfanne hinzugeben
 
 - Wenn die Zwiebeln glasig sind Knoblauchzehe herausfischen
 
