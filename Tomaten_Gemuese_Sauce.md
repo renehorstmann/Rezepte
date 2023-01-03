@@ -14,6 +14,17 @@ Für zwei Portionen
 - Ein paar Lorbeerblätter 
 - 100 ml Rotwein
 
+### Außerdem
+- Olivenöl
+- Rotweinessig
+- Honig
+- Zitronensaft
+- Salz
+- Pfeffer
+- Oregano
+- Chili (Pulver)
+- Kreuzkümmel
+
 # Rezept
 - Tomaten blanchieren und häuten
 

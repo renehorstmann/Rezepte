@@ -9,6 +9,11 @@ Für eine Portion:
 - 125 g Lachsfilet
 - 2 Esslöffel [Pesto](Pesto.md)
 
+### Außerdem
+- Olivenöl
+- Salz
+- Weißweinessig
+
 ## Rezept
 - Lachsfilet waschen und würfeln
 

@@ -11,6 +11,14 @@ Für eine Schüssel:
 - 1/4 grüne Paprika
 - (4 cm Chili)
 
+### Außerdem
+- Olivenöl
+- Balsamico Essig
+- Salz
+- Pfeffer
+- Zucker
+- Tomatenmark
+
 ## Rezept
 - Tomaten 15 Minuten in einem Topf mit 1 L Wasser kochen 
 

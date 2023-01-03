@@ -18,6 +18,14 @@ Für 3-4 Portionen
 - 250 ml Rotwein
 - 25 ml Rotweinessig
 
+### Außerdem
+- Olivenöl
+- Zucker
+- Salz
+- Pfeffer
+- Paprikapulver
+- Tomatenmark
+
 ## Rezept
 - Zwiebel und Knoblauch fein würfeln
 

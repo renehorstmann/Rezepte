@@ -10,6 +10,11 @@ Für 4 Portionen
 - 50 g Parmesan
 - 1 (kleine) Knoblauchzehe
 
+### Außerdem
+- Weißweinessig
+- Salz
+- Pfeffer
+
 ## Rezept
 - Parmesan klein würfeln oder reiben
 

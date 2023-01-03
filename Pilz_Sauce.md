@@ -10,6 +10,12 @@
 - 100-200 ml Gemüsebrühe
 - 10 Stangen Petersilie
 
+### Außerdem
+- Olivenöl
+- Salz
+- Pfeffer
+- Paprikapulver
+
 ## Rezept
 - Pilze, Zwiebel und Knoblauch würfeln
 

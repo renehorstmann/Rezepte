@@ -9,6 +9,9 @@ Für 4 Tortillas:
 - 50 g Maismehl
 - 8 ml Olivenöl
 
+### Außerdem
+- Salz
+
 ## Rezept
 - Mehl mit Olivenöl, Salz und 50 ml Warmwasser in einer Schüssel durchkneten
 

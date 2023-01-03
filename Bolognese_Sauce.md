@@ -6,21 +6,26 @@ Für 3-4 Portionen
 
 ## Zutaten
 - 500 g Rinderhack oder HalbHalb
-- 100 g Panchetta
+- 100 g Pancetta
 - 1 große Zwiebel
 - 1 Möhre
 - 1-2 Stangen Staudensellerie
 - 100 ml Rotwein
 - 500 ml Brühe
 
+### Außerdem
+- Olivenöl
+- Butter
+- Tomatenmark
+
 ## Rezept
-- Panchatta klein würfeln
+- Panchetta klein würfeln
 
 - Zwiebel, Möhre und Sellerie klein würfeln
 
 - In einer Pfanne (mit vorhandenem Deckel) 3 Esslöffel Olivenöl mit 3 Esslöffel Butter erhitzen
 
-- Panchetta in der Pfanne für 1-2 Minuten braten
+- Pancetta in der Pfanne für 1-2 Minuten braten
 
 - Zwiebel, Möhre und Sellerie hinzurühren und braten, bis die Zwiebeln glasig werden
 

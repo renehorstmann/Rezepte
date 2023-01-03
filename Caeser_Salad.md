@@ -14,6 +14,9 @@ Für eine Portion:
 - 2 Radieschen
 - 20 g Parmesan
 
+### Außerdem
+- Butter oder Olivenöl
+
 ## Rezept
 - Toast klein würfeln und in Butter oder Olivenöl braten
 

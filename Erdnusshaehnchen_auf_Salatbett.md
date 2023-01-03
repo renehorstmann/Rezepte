@@ -10,6 +10,17 @@ Für 3-4 Portionen:
 - 1 Salatherz
 - Ein wenig Rucula
 - 1 Koblauchzehe
+- 150 ml Hühnerbrühe
+
+### Außerdem
+- Ingwer (Pulver)
+- Muskatnuss
+- Zimt
+- Sojasoße
+- Austernsoße
+- Butter
+- Rapsöl
+- Speisestärke
 
 ## Rezept
 - Erdnüsse klein mörsern

@@ -11,6 +11,13 @@ Für eine Portion:
 - 30 g Reibkäse
 - 20 cm Brot wie Baguette
 
+# Außerdem
+- Rapsöl
+- Rotweinessig
+- Salz
+- Pfeffer
+
+
 ## Rezept
 - Steak, Paprika und Zwiebel in Stücke schneiden
 

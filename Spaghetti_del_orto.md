@@ -12,6 +12,13 @@ Für eine Portion:
 - 10 cm Staudensellerie
 - 5 Stängel Petersilie
 
+### Außerdem
+- Olivenöl
+- Weißweinessig
+- Salz
+- Pfeffer
+
+
 ## Rezept
 - Tomaten vierteln und entkernen, Tomatenschalen und Kerne seperat aufbewahren
 

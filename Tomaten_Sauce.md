@@ -12,6 +12,12 @@ Für ca. 2 Portionen:
 - 100 ml Rotwein
 - 25 ml Balsamico Essig (ca. 3 Esslöffel)
 
+### Außerdem
+- Olivenöl
+- Balsamico Essig
+- Zucker
+- Salz
+
 ## Rezept
 - Tomaten blanchieren und häuten: 
 Tomaten in 1 L kochendes Wasser geben, 45 Sekunden warten und ausgießen, dann mit kalten Wasser abkühlen und häuten

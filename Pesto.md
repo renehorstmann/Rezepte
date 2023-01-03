@@ -9,6 +9,10 @@
 - 20 g Parmesan
 - Olivenöl
 
+### Außerdem
+- Salz
+- Pfeffer
+
 ## Rezept
 - Die Pinienkerne, die Knoblauchzehe mit 1 Esslöffel grobem Salz und Pfeffer in den Mörser geben
 
@@ -22,5 +26,7 @@
 - Pinienkerne durch andere Nüsse, wie Walnüsse, etc. ersetzen
 
 - Statt Basilikum Paprika für Paprikapesto verwenden
+
+- Wenn ein kleiner Mixer statt des Mörsers verwendet wird, entfaltet sich der Geschmack erst nach einiger Zeit, da die Basilikumöle beim mörsern schneller frei werden
 
 *Guten Appetit*

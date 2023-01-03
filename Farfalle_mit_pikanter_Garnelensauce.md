@@ -10,7 +10,15 @@ Für eine Portion:
 - 1 Knoblaubzehe
 - 2-4 cm Chili
 - 8 Basilikumblätter
-- Parmesan
+
+### Außerdem
+- Olivenöl
+- Weißwein
+- Zitronensaft
+- Tomatenmark
+- Salz
+- Pfeffer
+- Parmesankäse
 
 ## Rezept
 - Farfalle kochen

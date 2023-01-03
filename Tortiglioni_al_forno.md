@@ -13,6 +13,10 @@ Für zwei Portionen:
 - 8 Kirschtomaten
 - 10 Blätter Basilikum
 
+### Außerdem
+- Salz
+- Aluminiumfolie
+
 ## Rezept
 - Tortiglioni kochen (80% der angegebenen Kochzeit)
 

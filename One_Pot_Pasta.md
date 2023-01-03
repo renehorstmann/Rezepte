@@ -10,6 +10,10 @@ Für eine Portion:
 - 1/2 Zwiebel
 - 1 Knoblauchzehe
 
+### Außerdem
+- Olivenöl
+- Salz
+- Pfeffer
 
 ## Rezept
 - Zwiebel grob und Knoblauchzehe fein würfeln

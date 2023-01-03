@@ -10,6 +10,9 @@ Für eine Pizza:
 - 1 Teelöffel / 5 g Salz
 - ~1 g Hefe siehe Bild (42 g Hefewürfel):
 
+### Außerdem
+- Olivenöl
+
 ![hefe](imgs/Pizzateig_Hefe.jpg)
 
 ## Rezept
@@ -19,7 +22,7 @@ Für eine Pizza:
 
 - Den Rest des Mehls hinzugeben und alles mit der Hand gut durchkneten
 
-- Den Teig in eine eingeölte Schüssel legen und mit mit dem Öl einpinseln
+- Den Teig in eine eingeölte Schüssel legen und mit dem Olivenöl einpinseln
 
 - Mit einem feuchtem Trockentuch überdecken
 

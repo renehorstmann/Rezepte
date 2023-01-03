@@ -14,6 +14,11 @@ Für 4 Portionen:
 - 50 ml Olivenöl
 - 4 Esslöffel Honig
 
+### Außerdem
+- Salz
+- Pfeffer
+- Paprikapulver
+
 ## Rezept
 - Das Schweinefleisch in 4 Würfel schneiden (ca. 8x8 cm) und in einen Schmortopf (mit Deckel) legen
 
@@ -38,7 +43,6 @@ Für 4 Portionen:
 - Mit zwei Gabeln zupfen
 
 ## Tipp
-- Die Zutaten für die Marinade können auch je nach Geschmak variiert werden.
-Hauptsache, das Schweinefleisch wird nicht trocken.
+- Die Zutaten für die Marinade können auch je nach Geschmack variiert werden. Hauptsache, das Schweinefleisch wird nicht trocken.
 
 *Guten Appetit*

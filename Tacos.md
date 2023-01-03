@@ -15,6 +15,13 @@ Für 4 Tacos:
 - 30 g Reibkäse
 - 20 g Cremé Fraich
 
+### Außerdem
+- Lebensmittelöl wie Sonnenblumenöl
+- Tomatenmark
+- Salz
+- Pfeffer
+- Paprikapulver
+
 ## Rezept
 - Eine der Schalotten und Knoblauchzehe fein würfeln und mit dem Rinderhack vermengen
 

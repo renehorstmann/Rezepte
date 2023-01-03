@@ -11,6 +11,11 @@ Für 2-3 Portionen
 - 1 Dose geschälte Tomaten (400 g)
 - 50 ml Weißwein
 
+### Außerdem
+- Olivenöl
+- Salz
+- Pfeffer
+
 ## Rezept
 - Paprika und Zwiebel grob würfeln oder länglich schneiden
 

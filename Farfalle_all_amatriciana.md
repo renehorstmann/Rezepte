@@ -12,13 +12,21 @@ Für eine Portion:
 - 6 Kirschtomaten
 - 6 Stangen Petersilie
 
+### Außerdem
+- Olivenöl
+- Weißwein
+- Tomatenmark
+- Salz
+- Pfeffer
+- Parmesankäse
+
 ## Rezept
 - Pancetta würfeln
 
 - Farfalle kochen (80% - 90% der Kochzeit)
 
-- Pancetta in einer großen Pfanne mit keinem oder ein wenig Öl braten
-  - Wenn der Panchetta genug Fett hat braucht man kein Öl
+- Pancetta in einer großen Pfanne mit keinem oder ein wenig Olivenöl braten
+  - Wenn der Pancetta genug Fett hat braucht man kein Öl
 
 - Knoblauchzehe mit dem Messer eindrücken und zur Pfanne geben
 

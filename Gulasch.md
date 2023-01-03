@@ -16,6 +16,17 @@ Für 3-4 Portionen
 - 250 ml Rotwein
 - 500 ml Brühe (z. B. Rinderbrühe)
 
+### Außerdem
+- Rapsöl
+- Salz
+- Paprikapulver
+- Tomatenmark
+- Pfefferkörner
+- Wacholder
+- Loorbeerblatt
+- Rosmarin
+- Thymian
+
 ## Rezept
 - Knoblauchzehen, Chilis und Sellerie fein würfeln
 

@@ -9,6 +9,10 @@ Für eine Portion:
 - 50 g Mehl
 - 1 Ei
 
+### Außerdem
+- Salz
+- Olivenöl oder Butter
+
 ## Rezept
 - Kartoffeln kochen
 

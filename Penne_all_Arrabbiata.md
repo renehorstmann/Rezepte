@@ -11,6 +11,10 @@ Für eine Portion:
 - 1 cm Chili
 - 10 Blätter Petersilie
 
+### Außerdem
+- Olivenöl
+- Salz
+
 ## Rezept
 - Chili kleinschneiden (je nach schärfe Kerne entfernen)
 

@@ -3,7 +3,7 @@
 ![img](imgs/Geduenstete_Haehnchenbrust.jpg)
 
 ## Rezept
-- Hähnchenbrust in einer heißen Pfanne mit 1-2 Esslöffel Rapsöl 1-2 Minuten scharf anbraten
+- Hähnchenbrust in einer heißen Pfanne mit 1-2 Esslöffel Raps- oder Olivenöl 1-2 Minuten scharf anbraten
 
 - Wenden und die andere Seite 2 Minuten scharf anbraten
 

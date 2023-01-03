@@ -13,6 +13,9 @@ Für eine Portion
 - 6 Basilikumblätter
 - 50 ml Weißwein
 
+### Außerdem
+- Olivenöl
+
 ## Rezept
 - Zwiebel und Knoblauch klein würfeln
 

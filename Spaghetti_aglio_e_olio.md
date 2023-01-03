@@ -8,6 +8,11 @@ Für eine Portion:
 - 125 g Spaghetti
 - 1 Knoblauchzehe
 
+### Außerdem
+- Olivenöl
+- Salz
+- Pfeffer
+
 ## Rezept
 - Spaghetti kochen
 

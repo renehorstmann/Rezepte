@@ -17,6 +17,9 @@ Für eine große Schüssel / Schale
 - 150 g Cremé Fraich
 - 125 g Reibkäse
 
+### Außerdem
+- Rapsöl
+
 ![img](imgs/Nachosalat_Sauce.jpg)
 Maggi Texicana Salsa Sauce
 

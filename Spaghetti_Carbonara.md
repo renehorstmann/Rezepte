@@ -10,12 +10,18 @@ Für eine Portion:
 - 30 g Parmesan
 - 2 Eigelb
 
+### Außerdem
+- Olivenöl
+- Salz
+- Pfeffer
+
 ## Rezept
 - Die 2 Eigelb mit dem Parmesan und Pfeffer in einer Schüssel vermengen
 
 - Spaghetti kochen (nicht abgießen wenn sie fertig sind!)
 
 - Gleichzeitig zu den Spaghettis, in einer großen Pfanne ohne Öl den Pancetta braten
+  - Wenn die Pancetta nicht genug fett hat, ein bisschen Olivenöl verwenden
 
 - In der Zwischenzeit 1-2 Esslöffel des Nudelsalzwassers in die Schüssel geben und dann die Eigelbkäsemasse durchrühren
 

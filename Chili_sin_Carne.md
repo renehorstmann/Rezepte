@@ -17,6 +17,17 @@ Für 3-4 Poritionen
 - 3 Lorbeerblätter
 - 200 ml Rotwein
 
+### Außerdem
+- Olivenöl
+- Rotweinessig
+- Zitronen oder Limettensaft
+- Salz
+- Pfeffer
+- Zucker
+- Kreuzkümmel (Pulver)
+- Paprikapulver
+- Oregano
+
 ## Rezept
 - Tomaten blanchieren und häuten
 

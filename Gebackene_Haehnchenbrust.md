@@ -7,7 +7,7 @@
 
 - Auflaufform in den Ofen stellen und auf 160°C erhitzen
 
-- Hähnchenbrust in einer heißen Pfanne mit 1-2 Esslöffel Rapsöl scharf anbraten
+- Hähnchenbrust in einer heißen Pfanne mit 1-2 Esslöffel Raps- oder Olivenöl scharf anbraten
 
 - Nach 1-2 Minuten wenden und die obere Seite würzen (Salz, Pfeffer, ...)
 

@@ -10,6 +10,7 @@ Ein paar meiner Lieblingsrezepte
 - [One Pot Pasta](One_Pot_Pasta.md)
 - [Pilz Sauce](Pilz_Sauce.md)
 - [Ramen](Ramen.md)
+- [Reis](Reis.md)
 
 ## Italienisch
 - [Bolognese Sauce](Bolognese_Sauce.md)
@@ -36,7 +37,9 @@ Ein paar meiner Lieblingsrezepte
 - [Ratatouille Confit Byaldi](Ratatouille_Confit_Byaldi.md)
 
 ## Mexikanisch
+- [Burritos](Burritos.md)
 - [Chili sin Carne](Chili_sin_Carne.md)
+- [Guacamole](Guacamole.md)
 - [Nachosalat](Nachosalat.md)
 - [Salsa](Salsa.md)
 - [Tacos](Tacos.md)

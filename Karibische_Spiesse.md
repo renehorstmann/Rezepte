@@ -17,6 +17,9 @@ Für 6 Spieße:
 - 6 cm Zuchhini
 - 1/2 Paprika
 
+### Außerdem
+- Olivenöl
+
 ## Rezept
 - Knoblauch und Chili klein würfeln und mit Erdnussöl und Minzblätter vermengen
 
@@ -30,6 +33,6 @@ Für 6 Spieße:
 
 - Auf die 6 Spieße immer abwechselnd Fleisch, Speck und Früchte/Gemüse stecken
 
-- Spieße in einer Pfanne mit etwas Öl wendent ca. 6 Minuten braten
+- Spieße in einer Pfanne mit etwas Olivenöl wendent ca. 6 Minuten braten
 
 *Guten Appetit*

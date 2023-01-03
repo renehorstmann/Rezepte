@@ -11,6 +11,15 @@ Für 3-4 Burgerpatties oder 12 Minipatties
 - 60 g Haferflocken 
 - 25 g Mehl
 
+### Außerdem
+- Gemüsebrühepulver
+- Senf
+- Sojasoße
+- Paprikapulver
+- Kreuzkümmel
+- Salz
+- Pfeffer
+
 ## Rezept
 - Zwiebel und Knoblauch fein würfeln, mit Rapsöl glasig braten und mit Rotwein ablöschen
 
@@ -21,7 +30,7 @@ Für 3-4 Burgerpatties oder 12 Minipatties
 - Würzen mit:
   - 1/2 Esslöffel Gemüsebrühepulver
   - 1 Esslöffel Senf
-  - 1 Esslöffel Sojasauce
+  - 1 Esslöffel Sojasoße
   - 2 Teelöffel Paprikapulver
   - 1 Teelöffel Kreuzkümmel
   - Salz und Pfeffer

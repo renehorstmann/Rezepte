@@ -14,6 +14,14 @@ Für einen Burger:
 - Zwiebelringe
 - optional Speckstreifen
 
+### Außerdem
+- Salz
+- Pfeffer
+- Raps- oder Olivenöl
+- Senf
+- Ketchup
+- Mayonaise
+
 ## Rezept
 - Rinderhack mit Burgerpresse oder von Hand zu einem Patty pressen
 
@@ -27,7 +35,7 @@ Für einen Burger:
 
 - Patty in der Mitte mit einem Esslöffel andrücken (um ein aufblähen zu vermeiden)
 
-- Patty mit Öl von beiden Seiten scharf anbraten
+- Patty mit Raps- oder Olivenöl von beiden Seiten scharf anbraten
 
 - Optional am Ende den Speckstreifen von beiden Seiten braten und anschließend mit Küchenpapier trocknen
 

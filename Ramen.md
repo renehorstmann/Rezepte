@@ -15,6 +15,11 @@ Für 4 Portionen:
 - Knoblauch
 - Suppengrün (Porree, Möhre, Selliere, Zwiebel)
 
+### Außerdem
+- Sojasoße
+- Austernsoße
+- Wein
+
 ## Rezept
 - Suppe mit Suppengrün, Knoblauch und reichlich Ingwer ansetzen
 
@@ -22,8 +27,8 @@ Für 4 Portionen:
 
 - 1-2 Knoblauchzehen (je nach Größe) und einen gleichen Teil Ingwer klein hacken
 
-- In einer kleinen Pfanne den Knoblauch und den Ingwer zusammen mit Sojasauce, Austernsauce und Wein aufkochen lassen
-  - Die Marinade / Suppenwürze abschmecken (mit Sojasauce, Austernsauce und Wein)
+- In einer kleinen Pfanne den Knoblauch und den Ingwer zusammen mit Sojasoße, Austernsoße und Wein aufkochen lassen
+  - Die Marinade / Suppenwürze abschmecken (mit Sojasoße, Austernsoße und Wein)
 
 - Die gekochten Hähnchenkeulen abkühlen lassen und das Fleisch herauszupfen
   - Die Reste (Haut, Knochen, Fett, ...) wieder zur Suppe geben

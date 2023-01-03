@@ -11,6 +11,9 @@ Für eine Pizza
 - Parmesankäse
 - 6 Basilikumblätter
 
+### Außerdem
+- Olivenöl
+
 ## Rezept
 - Pizzateig von Hand zur Pizza formen
 

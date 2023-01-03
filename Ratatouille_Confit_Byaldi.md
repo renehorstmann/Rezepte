@@ -13,6 +13,16 @@ Für 2 Portionen:
 - 1 Paprika
 - 6 Nadeln Rosmarin
 
+### Außerdem
+- Olivenöl
+- Balsamico Essig
+- Weißwein
+- Salz
+- Pfeffer
+- Rosmarin
+- Schnittlauch
+- Parmesankäse
+
 ## Rezept
 - Tomaten blanchieren und häuten (45 Sekunden in kochendes Wasser geben)
 

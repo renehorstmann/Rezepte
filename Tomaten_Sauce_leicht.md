@@ -10,6 +10,10 @@ Für 2-3 Portionen
 - 6 Stangen Basilikum
 - 25 ml Weißweinessig
 
+### Außerdem
+- Olivenöl
+- Salz
+
 ## Rezept
 - Knoblauch klein würfeln und mit Olivenöl in einem kleinem Topf glasig braten
 
