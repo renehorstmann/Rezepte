@@ -33,11 +33,9 @@ Für 3-4 Portionen
 
 - Rotwein aufgießen
 
-- In einer Schüssel 3 gehäufte Esslöffel Tomatenmark mit Brühe verrühren
+- 3 gehäufte Esslöffel Tomatenmark verrühren
 
-- Tomatenmark in die Pfanne einrühren
-
-- Mit etwas Brühe die Schüssel ausspülen und so viel Brühe zur Pfanne geben, bis alles leicht bedeckt ist
+- So viel Brühe zur Pfanne geben, bis alles leicht bedeckt ist und durchrühren
 
 - Entweder im Backofen oder bei kleiner Stufe mit Topfdeckel 1-2 Stunden köcheln lassen, gelegentlich umrühren und bei Bedarf, Brühe nachgießen.
 
