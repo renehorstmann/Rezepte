@@ -37,6 +37,8 @@ Für eine Portion:
 
 - Unter rühren das Steak scharf anbraten
 
+- Knoblauchzehe heraus fischen
+
 - Brot einschneiden, Steak-Gemisch auflegen und mit Käse bestreuen
   - Bei einem Aufbackbrot, die kürzere Backzeit (oder noch ein wenig weniger) nutzen, damit das Brot innen weicher bleibt
 
