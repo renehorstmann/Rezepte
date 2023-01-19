@@ -3,8 +3,8 @@
 ![img](imgs/Kartoffelpueree.jpg)
 
 ## Zutaten
-- 300 g Kartoffeln
-- Milch
+- 500 g Kartoffeln
+- 150 ml Milch
 
 ## Rezept
 - Kartoffeln schälen und würfeln
