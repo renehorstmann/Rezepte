@@ -6,6 +6,7 @@ Ein paar meiner Lieblingsrezepte
 - [Erdnusshähnchen auf Salatbett](Erdnusshaehnchen_auf_Salatbett.md)
 - [Gulasch](Gulasch.md)
 - [Hähnchenbrust](Haehnchenbrust.md)
+- [Kartoffel Püree](Karroffel_Pueree.md)
 - [Kidneybohnen Patties](Kidneybohnen_Patties.md)
 - [One Pot Pasta](One_Pot_Pasta.md)
 - [Pilz Sauce](Pilz_Sauce.md)
