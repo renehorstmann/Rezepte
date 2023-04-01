@@ -13,6 +13,6 @@
 
 - abgießen und wieder in den Topf geben
 
-- Milch eingießen und mit dem Kartoffelstampfer klein pürierem
+- Milch eingießen und mit dem Kartoffelstampfer klein "pürieren"
 
 *Guten Appetit*
