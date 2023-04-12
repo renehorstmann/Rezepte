@@ -42,7 +42,7 @@ Für eine Portion:
 - Brot einschneiden, Steak-Gemisch auflegen und mit Käse bestreuen
   - Bei einem Aufbackbrot, die kürzere Backzeit (oder noch ein wenig weniger) nutzen, damit das Brot innen weicher bleibt
 
-- In den Backofen auf Grillstufe schieben und warten bis der Käse geschmolzen ist (ca. 3 Minuten)
+- In den Backofen auf Grillstufe schieben und warten bis der Käse geschmolzen ist (ca. 1-2 Minuten)
 
 - Je nach belieben mit BBQ-Sauce Zwiebelringen, Paprika, Tomate, Gurke, Salat, ... belegen
 
