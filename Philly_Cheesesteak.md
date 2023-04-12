@@ -36,6 +36,8 @@ Für eine Portion:
   - Pfeffer
   - 1 Esslöffel Rotweinessig
   - 1 Esslöffel Honig
+  
+- Bei mittlerer Hitze reduzierem lassen
 
 - Brot einschneiden, Steak-Gemisch auflegen und mit Käse bestreuen
   - Bei einem Aufbackbrot, die kürzere Backzeit (oder noch ein wenig weniger) nutzen, damit das Brot innen weicher bleibt
