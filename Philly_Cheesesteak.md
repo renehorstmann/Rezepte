@@ -21,9 +21,9 @@ Für eine Portion:
 
 
 ## Rezept
-- Steak, Paprika und Zwiebel in Stücke schneiden
+- Steak, Paprika und Zwiebel würfeln
 
-- Knoblauchzehe mit dem Messer eindrücken
+- Knoblauchzehe in feine Würfel schneiden
 
 - In einer Pfanne die Paprika, Zwiebel und Knoblauchzehe mit etwas Rapsöl glasig braten
 
@@ -36,8 +36,6 @@ Für eine Portion:
   - 1 Esslöffel Honig
 
 - Unter rühren das Steak scharf anbraten
-
-- Knoblauchzehe heraus fischen
 
 - Brot einschneiden, Steak-Gemisch auflegen und mit Käse bestreuen
   - Bei einem Aufbackbrot, die kürzere Backzeit (oder noch ein wenig weniger) nutzen, damit das Brot innen weicher bleibt
