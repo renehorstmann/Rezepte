@@ -29,13 +29,13 @@ Für eine Portion:
 
 - Steak hinzugeben
 
+- Unter rühren das Steak scharf anbraten
+
 - Pfanneninhalt würzen mit:
   - Salz
   - Pfeffer
   - 1 Esslöffel Rotweinessig
   - 1 Esslöffel Honig
-
-- Unter rühren das Steak scharf anbraten
 
 - Brot einschneiden, Steak-Gemisch auflegen und mit Käse bestreuen
   - Bei einem Aufbackbrot, die kürzere Backzeit (oder noch ein wenig weniger) nutzen, damit das Brot innen weicher bleibt
