@@ -9,7 +9,7 @@ Für eine große Schüssel / Schale
 - 1 Flasche Maggi Texicana Salsa
 - 2 große rote Zwiebeln
 - 4 kleine Chilis, z. B. Rawit oder eine große Peperoni, etc.
-- 1/2 Limette
+- 1 Limette
 - 250 g Tortilla Chips / Nachos, z. B. gesalzen
 - 1/2 Eisbergsalat
 - 250 g Kidneybohnen
@@ -26,15 +26,15 @@ Maggi Texicana Salsa Sauce
 ## Rezept
 - Die Zwiebeln und die Chilis klein würfeln
 
-- In einer großen Pfanne die Zwiebeln in Rapsöl glasig braten
+- In einer großen Pfanne die Zwiebeln und Chilis in Rapsöl glasig braten
   - je nach Kochplatte, eventuell in zwei Portionen braten, damit später das Hackfleisch nicht im austretenden Fleischwasser köchelt
 
-- Die Chilis und das Rinderhack einrühren und solange braten, bis das Rinderhack durchgebraten ist
+- Das Rinderhack einrühren und solange braten, bis das Rinderhack durchgebraten ist
 
 - Den kompletten Flascheninhalt der Salsa Sauce in die Pfanne schütten
   - Mit einem Schuss Wein die Reste der Flasche herausschütteln
 
-- Saft der halben Limette ebenfalls zur Sauce geben und alles unter gelegentlichem rühren +10 Minuten köcheln lassen.
+- Saft der Limette ebenfalls zur Sauce geben und alles unter gelegentlichem rühren +10 Minuten köcheln lassen.
 
 - Je nach Konsistenz der Hackfleischsauce weiter köcheln und anschließend abkühlen lassen
 
@@ -51,5 +51,8 @@ Maggi Texicana Salsa Sauce
 - Ein paar Tortilla Chips zur Deko beseite legen und die restlichen Chips in der Packung zerdrücken
 
 - Die Chipskrümel als letzte Schicht auf den Salat legen und mit den beiseite gelegten Chips garnieren
+
+## Tipp
+Vor allem die Tortilla Chips erst kurz vor dem Anrichten schichten
 
 *Guten Appetit*
