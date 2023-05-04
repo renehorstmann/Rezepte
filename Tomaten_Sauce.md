@@ -14,7 +14,6 @@ Für ca. 2 Portionen:
 
 ### Außerdem
 - Olivenöl
-- Balsamico Essig
 - Zucker
 - Salz
 
