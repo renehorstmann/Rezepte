@@ -16,7 +16,7 @@ Für 4 Portionen
 - Pfeffer
 
 ## Rezept
-- Parmesan klein würfeln oder reiben
+- Parmesan reiben
 
 - Knoblauchzehe würfeln
 
