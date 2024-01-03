@@ -15,4 +15,7 @@
 
 - Milch eingießen und mit dem Kartoffelstampfer klein "pürieren"
 
+## Tipp
+Würzen mit etwas Muskatnuss
+
 *Guten Appetit*
