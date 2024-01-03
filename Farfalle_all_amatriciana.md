@@ -46,4 +46,7 @@ Für eine Portion:
 
 - Mit Salz und Pfeffer auf dem Teller würzen und mit Parmesan servieren
 
+## Tipp
+Für ein entspannteres kochen kann man natürlich auch vorab alles fertig vorbereiten/schneiden
+
 *Guten Appetit*
