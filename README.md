@@ -8,6 +8,7 @@ Ein paar meiner Lieblingsrezepte
 - [Hähnchenbrust](Haehnchenbrust.md)
 - [Kartoffelpüree](Kartoffelpueree.md)
 - [Kidneybohnen Patties](Kidneybohnen_Patties.md)
+- [Kinderketchup](Kinderketchup.md)
 - [One Pot Pasta](One_Pot_Pasta.md)
 - [Pilz Sauce](Pilz_Sauce.md)
 - [Ramen](Ramen.md)
