@@ -1,6 +1,6 @@
 # Lasagne
 
-![img](imgs/Lasagne.md)
+![img](imgs/Lasagne.jpg)
 
 Für 3-4 Portionen
 
