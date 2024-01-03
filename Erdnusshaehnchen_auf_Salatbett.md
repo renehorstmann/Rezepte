@@ -8,7 +8,7 @@ Für 3-4 Portionen:
 - 2 Hähnchenbrüste
 - Eine Hand voll Erdnüsse
 - 1 Salatherz
-- Ein wenig Rucula
+- Ein wenig Rucola
 - 1 Koblauchzehe
 - 150 ml Hühnerbrühe
 
@@ -20,7 +20,7 @@ Für 3-4 Portionen:
 - Austernsoße
 - Butter
 - Rapsöl
-- Speisestärke
+- Mehl
 
 ## Rezept
 - Erdnüsse klein mörsern
@@ -31,7 +31,7 @@ Für 3-4 Portionen:
 
 - Hähnchenbrüste in je drei Teile schneiden, mit der Erdnusscremé marinieren und 30 Minuten ziehen lassen
 
-- In einer Schmorpfanne (große Pfanne mit Deckel) Butter vorsichtig zergehen lassen 
+- In einer Schmorpfanne (große Pfanne mit Deckel) Butter zergehen lassen 
 
 - Die Knoblauchzehe mit einem Messer pressen und zur Butter geben
 
@@ -39,10 +39,11 @@ Für 3-4 Portionen:
 
 - 150 ml Hühnerbrühe in die Pfanne geben und 15-20 Minuten auf mittlerer Hitze mit dem Deckel schmoren lassen
 
-- In der Zwischenzeit das Salatherz und den Rucula waschen. Die Reste vom Salatherz mit in der Pfanne schmoren lassen
+- In der Zwischenzeit das Salatherz und den Rucola waschen. Die Reste vom Salatherz mit in der Pfanne schmoren lassen
 
 - Nach dem schmoren den Knoblauch und grobe Reststücke des Salatherzes aus der Pfanne fischen
 
-- Mit Speisestärke andicken und zusammen auf dem Salat servieren
+- Mit Mehl andicken und zusammen auf dem Salat servieren
+  - Dazu vorher den Mehl in etwas abgeschöpfter Brühe verrühren
 
 *Guten Appetit*
