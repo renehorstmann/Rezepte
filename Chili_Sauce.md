@@ -1,6 +1,6 @@
 # Chili Soße
 
-![img](imgs/Chili_Sosse.jpg)
+![img](imgs/Chili_Sauce.jpg)
 
 ## Zutaten
 - 1/4 Paprika
