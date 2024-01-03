@@ -8,7 +8,7 @@ Für 4 Portionen:
 - 1-2 kg Schweinenacken
 - 1 große Zwiebel
 - 3-4 Tomaten oder eine Dose gehackte Tomaten
-- 2 Chilis
+- 2 Chilis (Optional)
 - 250 ml Rotwein
 - 50 ml Balsamicoessig
 - 50 ml Olivenöl
@@ -26,7 +26,7 @@ Für 4 Portionen:
 
 - Zwiebeln würfeln
 
-- Chilis in Scheiben schneiden
+- Optional: Chilis in Scheiben schneiden
 
 - Gemüse auf das Schweinefleisch verteilen
 
