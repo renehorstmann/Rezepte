@@ -4,20 +4,21 @@
 
 ## Zutaten
 - Avocado
-- 2 Kirschtomaten
 
 ## Außerdem
 - Salz
-- Pfeffer
 - Zitronensaft
+- Olivenöl
 
 ## Rezept
 - Avocado halbieren und den Kern entfernen
 - Schale abtrennen und die Avocado in groben Stücken in den Mixer geben
-- Kirschtomaten halbieren und auch in den Mixer geben
-- Mit Salz, Pfeffer und Zitronensaft abschmecken
+- Mit Salz und Zitronensaft abschmecken
+- Je nach Konsistenz etwas Olivenöl hinzumixen
 
 ## Tipp
 - Eine reife Avocado ist nicht mehr hart von außen, aber noch nicht braun von innen.
+- Am besten Avocodos Zuhause neben Äpfeln nachreifen lassen.
+- Alternativ kann man auch 2 Kirschtomaten mit einmixen
 
 *Guten Appetit*
