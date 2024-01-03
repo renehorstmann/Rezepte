@@ -29,13 +29,13 @@ Für eine Portion
 
 - Die Kirschtomaten halbieren, in die Pfanne geben und bei mittlerer Hitze weiter braten
 
-- Wenn die Farfalle fertig sind (80%), direkt aus dem Topf in die Pfanne geben und das Nudelsalzwasser an die Seite stellen
+- Wenn die Farfalle fertig sind (80%), direkt aus dem Topf in die Pfanne geben und das Nudelsalzwasser aufbewahren
 
 - Die Farfalle in der Pfanne unter rühren weiter braten lassen und ggf. mehr Nudelsalzwasser hinzugeben
 
 - Pfannenhitze abstellen, Basilikum klein schneiden und unterrühren
 
-- Den Mozzarella klein schneiden und kurz vor dem Servieren unter die Farfalle rühren
+- Den Mozzarella klein schneiden und kurz vor dem Servieren unter die Farfalle rühren.
 
 - Auf dem Teller mit Salz und Pfeffer würzen
 
