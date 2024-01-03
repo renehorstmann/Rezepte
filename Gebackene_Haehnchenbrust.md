@@ -13,7 +13,7 @@
 
 - Nach weiteren 1-2 Minuten die Hähnchenbrust gewendet in die Auflaufform stellen und die andere Seite würzen
 
-- Für ca. 20 Minuten backen (10 min/cm Dicke), falls vorhanden: Mit Fleischthermometer 72°C Kerntemperatur abwarten
+- Für ca. 20-30 Minuten backen (10 min pro cm Dicke), falls vorhanden: Mit Fleischthermometer 72°C Kerntemperatur abwarten
 
 ## Tipp
 Alternativ kann man auch eine Salzkruste erzeugen, indem man die Hähnchenbrust +30 Minuten vorher mit Salz würzt
