@@ -6,6 +6,7 @@ Ein paar meiner Lieblingsrezepte
 - [Erdnusshähnchen auf Salatbett](Erdnusshaehnchen_auf_Salatbett.md)
 - [Gulasch](Gulasch.md)
 - [Hähnchenbrust](Haehnchenbrust.md)
+- [Karibische Spieße](Karibische_Spiesse.md)
 - [Kartoffelpüree](Kartoffelpueree.md)
 - [Kidneybohnen Patties](Kidneybohnen_Patties.md)
 - [Kinderketchup](Kinderketchup.md)
@@ -56,9 +57,3 @@ Ein paar meiner Lieblingsrezepte
 - [Caeser Sauce](Caeser_Sauce.md)
 - [Philly Cheesesteak](Philly_Cheesesteak.md)
 - [Pulled Pork](Pulled_Pork.md)
-
-## Karibisch
-- [Karibische Spieße](Karibische_Spiesse.md)
-
-
-
