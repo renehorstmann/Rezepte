@@ -32,8 +32,13 @@ Für eine Portion:
 
 ## Tipp
 Das Rezept ist eher eine Basis für One Pot Pasta, je nach Geschmack lässt sich viel variieren.
+
 Z. B. Während der letzten Minute Kochzeit Basilikum / Oregano hinzugeben.
-Oder Chili zur Zwiebel und dem Knoblauch. Oder ein Schuss Wein oder Fond zum warmen Wasser.
+
+Oder Chili zur Zwiebel und dem Knoblauch. 
+
+Oder ein Schuss Wein oder Fond zum warmen Wasser.
+
 ...
 
 *Guten Appetit*
