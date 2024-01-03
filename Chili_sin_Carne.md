@@ -5,16 +5,16 @@
 Für 3-4 Poritionen
 
 ## Zutaten
-- 6 Tomaten
+- 6 Tomaten (oder Dose gehackte Tomaten, siehe Tipp)
 - 2 große rote Zwiebeln
 - 2 Paprika
 - 1 große Möhre
 - 1/2 Zucchini
 - 1-2 Knoblauchzehen
-- 2-3 Chilis (z. B. Rawit)
 - 1 kleine Dose Mais (150 g)
 - 1 Dose Kidneybohnen (250 g)
 - 3 Lorbeerblätter
+- 2-3 Chilis (z. B. Rawit) (Optional)
 - 200 ml Rotwein
 
 ### Außerdem
@@ -33,11 +33,11 @@ Für 3-4 Poritionen
 
 - Tomaten, Paprika, Möhre und Zucchini würfeln
 
-- Knoblauchzehen und Chilis klein würfeln
+- Knoblauchzehen und Chilis (optional) klein würfeln
 
 - Paprika in einem Topf mit 3 Esslöffel Olivenöl braten
 
-- Nach und nach Möhren, Zucchini, Knoblauch, Chili und Tomaten hinzugeben
+- Nach und nach Möhren, Zucchini, Knoblauch, Tomaten und Chili (optional) hinzugeben
 
 - Rotwein einschütten und Lorberblätter hineinlegen
 
@@ -52,12 +52,12 @@ Für 3-4 Poritionen
   - 20 ml Rotweinessig
   - Zitronen oder Limettensaft
 
-- Mit Deckel +1 Stunde köcheln lassen
+- Mit angewinkeltem Deckel +1 Stunde köcheln und reduzieren lassen
 
 - Mais und abgetropfte Kidneybohnen einrühren
 
 - Die Zwiebeln grob würfeln und auch einrühren
-  - können auch vorher angebraten werden
+  - können alternativ auch vorher angebraten werden
 
 - Weitere 15 Minuten köcheln
 
@@ -65,6 +65,8 @@ Für 3-4 Poritionen
 
 
 ## Tipp
-Cremé Fraiche direkt auf dem Teller ein rühren.
+Cremé Fraiche direkt auf dem Teller einrühren.
+
+Statt frischen Tomaten gehen auch gehackte Tomaten aus der Dose, damit reduziert sich auch die Kochzeit
 
 *Guten Appetit*
