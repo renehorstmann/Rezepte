@@ -43,6 +43,7 @@ Für eine Pizza:
 - Die Kugel in der Mitte eindrücken
 
 - Die Pizza flach ziehen: durch eindrücken des Teigs nach außen hin und drehen der Pizza
+  - Von außen weiter einmehlen, damit der Teig später (vor allem von unten) nicht klebt
 
 ## Hinweiß
 Die Teigkugeln sollten am Ende nicht zu elastiasch, klebrig und keine trockene Kruste haben, bevor sie zur Pizza gezogen werden.
