@@ -33,6 +33,6 @@ Für 6 Spieße:
 
 - Auf die 6 Spieße immer abwechselnd Fleisch, Speck und Früchte/Gemüse stecken
 
-- Spieße in einer Pfanne mit etwas Olivenöl wendent ca. 6 Minuten braten
+- Spieße in einer Pfanne mit etwas Olivenöl wendent ca. 6 Minuten braten oder grillen
 
 *Guten Appetit*
