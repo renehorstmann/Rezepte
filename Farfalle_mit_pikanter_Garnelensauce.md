@@ -8,8 +8,8 @@ Für eine Portion:
 - 125 g Farfalle
 - 6-10 Garnelen
 - 1 Knoblaubzehe
-- 2-4 cm Chili
 - 8 Basilikumblätter
+- 2-4 cm Chili (Optional)
 
 ### Außerdem
 - Olivenöl
@@ -24,7 +24,7 @@ Für eine Portion:
 - Farfalle kochen
 
 - Währenddessen den Knoblauch fein würfeln, 
-die Chili in Scheiben schneiden 
+die Chili in Scheiben schneiden (optional)
 und beides in 2-3 Esslöffel Olivenöl anbraten
 
 - Mit Weißwein und einem Spritzer Zitronensaft ablöschen
@@ -33,7 +33,7 @@ und beides in 2-3 Esslöffel Olivenöl anbraten
 
 - 1-2 Esslöffel Tomatenmark und Nudelwasser zur Pfanne geben
 
-- Wenn die Farfalle fertig, direkt aus dem Topf in die Pfanne geben
+- Wenn die Farfalle fertig sind, direkt aus dem Topf in die Pfanne geben
 
 - Basilikum klein schneiden und zur Pfanne geben
 
