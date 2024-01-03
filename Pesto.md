@@ -23,10 +23,10 @@
 - Nach dem Mörsern den Parmesan einrühren und wieder je nach Konsistenz Olivenöl dazurühren
 
 ## Tipp
-- Pinienkerne durch andere Nüsse, wie Walnüsse, etc. ersetzen
+- Pinienkerne durch andere Nüsse, wie Walnüsse, etc. ersetzen.
 
-- Statt Basilikum Paprika für Paprikapesto verwenden
+- Statt Basilikum Paprika für Paprikapesto verwenden.
 
-- Wenn ein kleiner Mixer statt des Mörsers verwendet wird, entfaltet sich der Geschmack erst nach einiger Zeit, da die Basilikumöle beim mörsern schneller frei werden
+- Wenn ein kleiner Mixer statt des Mörsers verwendet wird, Basilikum vorher in den Händen klatschen, damit das Öl besser entweichen kann.
 
 *Guten Appetit*
