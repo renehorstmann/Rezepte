@@ -14,13 +14,13 @@ Für 3-4 Portionen
 - 1/4 Zucchini
 - 1-2 Lorbeerblätter
 - 2 Stangen Basilikum / 10 Basilikumblätter
-- 1-2 cm Chili
+- 1-2 cm Chili (optional)
 - 250 ml Rotwein
 - 25 ml Rotweinessig
 
 ### Außerdem
 - Olivenöl
-- Zucker
+- Honig
 - Salz
 - Pfeffer
 - Paprikapulver
@@ -39,14 +39,14 @@ Für 3-4 Portionen
 
 - Mit Rotwein ablöschen
 
-- Chili schneiden
+- (Optional) Chili schneiden
 
 - Folgendes hinzugeben:
   - Tomaten
   - Rotweinessig
   - Lorbeerblätter
-  - Chili
-  - 2 Teelöffel Zucker
+  - Chili (optional)
+  - 2 Teelöffel Honig
   - 2 Teelöffel Salz
   - Paprikapulver
   - Pfeffer
