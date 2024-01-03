@@ -14,8 +14,10 @@ Für 4 Burritos:
 - 4 große Tortillas (Wraps)
 - Romanasalat
 - Reibkäse
-- Chilisauce
-- Cremé Fraiche
+- Soßen (einzeln oder kombiniert)
+  - [Guacamole](Guacamole.md)
+  - Chilisauce 
+  - Cremé Fraiche
 
 ### Außerdem
 - Olivenöl
@@ -48,7 +50,10 @@ Für 4 Burritos:
 - Darauf ein paar Hähnchenstücke und darauf etwas Reibkäse
 - Tortilla kurz in der Mikrowelle erwärmen (50 Sekunden)
 - Belegen mit:
-  - Chilisauce und Cremé Fraiche
+  - Soße (einzeln oder kombiniert):
+    - [Guacamole](Guacamole.md)
+    - Chilisauce
+    - Cremé Fraiche
   - 2 Esslöffel von der Gemüsesalsa
   - Romanasalat
 - Zuerst den Tortilla links und rechts ein wenig zur Mitte falten
@@ -59,6 +64,5 @@ Für 4 Burritos:
 
 ## Tipp
 - Soßen um etwas frische [Guacamole](Guacamole.md) ergänzen
-
 
 *Guten Appetit*
