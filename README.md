@@ -48,6 +48,7 @@ Ein paar meiner Lieblingsrezepte
 - [Salsa](Salsa.md)
 - [Taco de cáscara dura](Taco_de_cascara_dura.md)
 - [Tortillas](Tortillas.md)
+- [Wraps](Wraps.md)
 
 ## US
 - [Burger](Burger.md)
