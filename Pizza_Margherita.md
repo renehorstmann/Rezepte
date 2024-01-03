@@ -27,7 +27,7 @@ Für eine Pizza
 
 - Vorsichtig ein klein wenig Olivenöl übertreufeln lassen
 
-- In dem vorgeheiztem Backofen ca. 8 Minuten bei 240°C Ober/Unterhitze backen.
+- In dem vorgeheiztem Backofen ca. 8 Minuten bei +240°C Ober/Unterhitze backen.
 
 
 *Guten Appetit*
