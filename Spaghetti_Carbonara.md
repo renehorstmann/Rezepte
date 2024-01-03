@@ -31,6 +31,6 @@ Für eine Portion:
 
 - Eigelbkäsemasse in die Pfanne geben und alles durchrühren
 
-- Eventuell nochmals Nudelsalzwasser nachgeben, falls es zu trocken ist (trocknet auf dem Teller weiter)
+- Nochmals etwas Nudelsalzwasser einrühren, falls es zu trocken ist (trocknet auf dem Teller weiter, schneller als man denkt...)
 
 *Guten Appetit*
