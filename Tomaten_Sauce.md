@@ -14,7 +14,7 @@ Für ca. 2 Portionen:
 
 ### Außerdem
 - Olivenöl
-- Zucker
+- Honig
 - Salz
 
 ## Rezept
@@ -36,7 +36,7 @@ Tomaten in 1 L kochendes Wasser geben, 45 Sekunden warten und ausgießen, dann m
 - Auf mittlere Hitze stellen und folgendes hinzugeben:
   - Balsamico Essig
   - 2 Esslöffel Olivenöl
-  - Prise Zucker
+  - Teelöffel Honig
   - Teelöffel Salz
 
 - Mit angewinkeltem Topfdeckel +60 Minuten (je nach gewünschter Konsistenz) köcheln/reduzieren lassen, gelegentlich umrühren
