@@ -36,4 +36,6 @@ Die Sauce ist absichtlich ungewürzt, man kann sie natürlich noch salzen und od
 
 In einer verschlossenen Schüssel hält die Sauce bis zu vier Wochen im Kühlschrank.
 
+Bei der Sauce braucht man auch nicht geizen, ist ja nichts schlimmes drin und die (Kinder) könnten sie auch einfach so essen.
+
 *Guten Appetit*
