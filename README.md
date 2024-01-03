@@ -41,6 +41,7 @@ Ein paar meiner Lieblingsrezepte
 
 ## Mexikanisch
 - [Burritos](Burritos.md)
+- [Chili Sauce](Chili_Sauce.md)
 - [Chili sin Carne](Chili_sin_Carne.md)
 - [Guacamole](Guacamole.md)
 - [Nachosalat](Nachosalat.md)
