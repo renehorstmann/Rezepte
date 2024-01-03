@@ -43,7 +43,7 @@ Ein paar meiner Lieblingsrezepte
 - [Guacamole](Guacamole.md)
 - [Nachosalat](Nachosalat.md)
 - [Salsa](Salsa.md)
-- [Tacos](Tacos.md)
+- [Taco de cáscara dura](Taco_de_cascara_dura.md)
 - [Tortillas](Tortillas.md)
 
 ## US
