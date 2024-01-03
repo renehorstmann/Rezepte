@@ -6,6 +6,7 @@
 - 1/4 Paprika
 - 1/2 rote Zwiebel
 - 1 Knoblauchzehe
+- 2-3 cm Chili (optional)
 - Hähnchensud von Backen
 - ca. 1/2 Tube Tomatenmark
 
@@ -17,7 +18,7 @@
 - Pfeffer
 
 ## Rezept
-- Paprika, Zwiebel und Knoblauchzehe fein würfeln
+- Paprika, Zwiebel, Knoblauchzehe und Chili (optional) fein würfeln
 
 - In einer Pfanne mit reichlich Olivenöl glasig braten (Pfanne vom Hähnchen)
 
