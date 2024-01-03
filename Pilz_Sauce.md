@@ -37,4 +37,7 @@
 
 - Mit Pfeffer und Paprikapulver abschmecken
 
+## Tipp
+Einige Pilze zum gernieren vor dem köcheln heraus fischen
+
 *Guten Appetit*
