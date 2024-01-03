@@ -15,8 +15,8 @@ Für 4 Burritos:
 - Romanasalat
 - Reibkäse
 - Soßen (einzeln oder kombiniert)
+  - [Chili Sauce](Chili_Sauce.md) 
   - [Guacamole](Guacamole.md)
-  - Chilisauce 
   - Cremé Fraiche
 
 ### Außerdem
@@ -51,8 +51,8 @@ Für 4 Burritos:
 - Tortilla kurz in der Mikrowelle erwärmen (50 Sekunden)
 - Belegen mit:
   - Soße (einzeln oder kombiniert):
+    - [Chili Sauce](Chili_Sauce.md) 
     - [Guacamole](Guacamole.md)
-    - Chilisauce
     - Cremé Fraiche
   - 2 Esslöffel von der Gemüsesalsa
   - Romanasalat
