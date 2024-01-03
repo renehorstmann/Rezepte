@@ -12,7 +12,7 @@ Für einen Burger:
 - 4 Gurkenscheiben
 - Salatblatt
 - Zwiebelringe
-- optional Speckstreifen
+- Speckstreifen (optional)
 
 ### Außerdem
 - Salz
@@ -29,15 +29,15 @@ Für einen Burger:
 
 - Patty mindestens 30 Minuten in den Kühlschrank stellen
 
-- Käse auf die untere Burgerbrötchenhälfte legen
-
-- Brötchen in den Backofen auf Grillstufe legen, bis der Käse geschmolzen ist
+- Brötchen in den Backofen auf Grillstufe legen, bis sie sich bräunen (oder alternativ auf den Toaster)
 
 - Patty in der Mitte mit einem Esslöffel andrücken (um ein aufblähen zu vermeiden)
 
 - Patty mit Raps- oder Olivenöl von beiden Seiten scharf anbraten
 
-- Optional am Ende den Speckstreifen von beiden Seiten braten und anschließend mit Küchenpapier trocknen
+- (Optional) Zwischendurch Speckstreifen von beiden Seiten braten und anschließend mit Küchenpapier trocknen
+
+- Gegen Ende Käse auf den Patty in der Pfanne legen und falls vorhanden, Deckel auf die Pfanne stellen, so dass der Käse schmilzt
 
 - Belegen der unteren Brötchenhälfte:
   - Patty
