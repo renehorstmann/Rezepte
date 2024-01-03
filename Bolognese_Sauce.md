@@ -29,7 +29,8 @@ Für 3-4 Portionen
 
 - Zwiebel, Möhre und Sellerie hinzurühren und braten, bis die Zwiebeln glasig werden
 
-- Hackfleisch in der Pfanne auf hoher Hitze braten, bis kein Wasser mehr austritt
+- Hackfleisch in der Pfanne auf hoher Hitze scharf braten, bis kein Fleischwasser mehr austritt
+  - Je nach Kochplatte, ggf. vorher Gemüse herausnehmen oder/und in mehreren Portionen anbraten
 
 - Rotwein aufgießen
 
