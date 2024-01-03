@@ -19,6 +19,7 @@ Ein paar meiner Lieblingsrezepte
 - [Farfalle mit pikanter Garnelensauce](Farfalle_mit_pikanter_Garnelensauce.md)
 - [Farfalle mit Tomaten Mozzarella Sauce](Farfalle_mit_Tomaten_Mozzarella_Sauce.md)
 - [Gnocchi](Gnocchi.md)
+- [Lasagne](Lasagne.md)
 - [Pasta](Pasta.md)
 - [Penne all Arrabbiata](Penne_all_Arrabbiata.md)
 - [Peperonata](Peperonata.md)
