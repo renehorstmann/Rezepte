@@ -29,27 +29,23 @@ Tomaten in 1 L kochendes Wasser geben, 45 Sekunden warten und ausgießen, dann m
 
 - Temperatur herunterstellen (oder kurz ausstellen)
 
-- Rotwein hinzugeben zum ablöschen (Vorsicht...)
+- Rotwein hinzugeben
 
 - Tomaten hinzugeben, rühren und 2 Minuten auf hoher Hitze lassen
 
 - Auf mittlere Hitze stellen und folgendes hinzugeben:
-  + Balsamico Essig
-  + 2 Esslöffel Olivenöl
-  + Prise Zucker
-  + Teelöffel Salz
+  - Balsamico Essig
+  - 2 Esslöffel Olivenöl
+  - Prise Zucker
+  - Teelöffel Salz
 
-- Mit Topfdeckel +30 Minuten (je nach gewünschter Konsistenz) köcheln lassen, gelegentlich umrühren
+- Mit angewinkeltem Topfdeckel +60 Minuten (je nach gewünschter Konsistenz) köcheln/reduzieren lassen, gelegentlich umrühren
 
 - Mit dem Handmixer die Sauce pürieren
-
-- Ohne Deckel weiter reduzieren lassen, bis die gewünschte Konsistenz erreicht ist (~ 20 Minuten)
 
 - Basilikum klein schneiden
 
 - Basilikum und ein bisschen Oregano hineinrühren
-
-- (Wenn du keine Tomatenkerne magst, kannst du die Sauce jetzt auch passieren)
 
 ## Tipp
 Gehackte Tomaten aus der Dose verwenden und damit die Kochzeit erheblich reduzieren
