@@ -10,7 +10,7 @@ Für eine Portion:
 - 1 Schalotte oder 1/2 rote Zwiebel
 - 1 kleine Knoblauchzehe
 - 30 g Reibkäse
-- 20 cm Brot wie Baguette
+- 20 cm Brot wie Baguette oder Brötchen
 
 # Außerdem
 - Rapsöl
@@ -40,7 +40,7 @@ Für eine Portion:
 - Bei mittlerer Hitze reduzierem lassen
 
 - Brot einschneiden, Steak-Gemisch auflegen und mit Käse bestreuen
-  - Bei einem Aufbackbrot, die kürzere Backzeit (oder noch ein wenig weniger) nutzen, damit das Brot innen weicher bleibt
+  - Bei einem Aufbackbrot, die kürzere Backzeit (oder noch weniger) nutzen, damit das Brot innen weicher bleibt
 
 - In den Backofen auf Grillstufe schieben und warten bis der Käse geschmolzen ist (ca. 1-2 Minuten)
 
