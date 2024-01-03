@@ -8,14 +8,14 @@ Für eine große Schüssel / Schale
 - 500 g Rinderhack
 - 1 Flasche Maggi Texicana Salsa
 - 2 große rote Zwiebeln
-- 4 kleine Chilis, z. B. Rawit oder eine große Peperoni, etc.
 - 1 Limette
-- 250 g Tortilla Chips / Nachos, z. B. gesalzen
 - 1/2 Eisbergsalat
 - 250 g Kidneybohnen
 - 250 g Mais
 - 150 g Cremé Fraich
 - 125 g Reibkäse
+- 250 g Tortilla Chips / Nachos, z. B. gesalzen
+- 4 kleine Chilis, z. B. Rawit oder eine große Peperoni, etc. (Optional)
 
 ### Außerdem
 - Rapsöl
@@ -24,9 +24,9 @@ Für eine große Schüssel / Schale
 Maggi Texicana Salsa Sauce
 
 ## Rezept
-- Die Zwiebeln und die Chilis klein würfeln
+- Die Zwiebeln und die Chilis (optional) klein würfeln
 
-- In einer großen Pfanne die Zwiebeln und Chilis in Rapsöl glasig braten
+- In einer großen Pfanne die Zwiebeln und Chilis (optional) in Rapsöl glasig braten
   - je nach Kochplatte, eventuell in zwei Portionen braten, damit später das Hackfleisch nicht im austretenden Fleischwasser köchelt
 
 - Das Rinderhack einrühren und solange braten, bis das Rinderhack durchgebraten ist
@@ -53,6 +53,6 @@ Maggi Texicana Salsa Sauce
 - Die Chipskrümel als letzte Schicht auf den Salat legen und mit den beiseite gelegten Chips garnieren
 
 ## Tipp
-Vor allem die Tortilla Chips erst kurz vor dem Anrichten schichten
+Die Tortilla Chips erst kurz vor dem Anrichten schichten
 
 *Guten Appetit*
