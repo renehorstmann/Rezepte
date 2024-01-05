@@ -7,7 +7,7 @@ Für 3-4 Portionen:
 ## Zutaten
 - 2 Hähnchenbrüste
 - Eine Hand voll (ungeschälte) Erdnüsse
-- 1 Salatherz
+- 1-2 Salatherzen
 - Ein wenig Rucola
 - 1 Koblauchzehe
 - 150 ml Hühnerbrühe
