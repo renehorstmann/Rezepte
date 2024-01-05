@@ -21,6 +21,7 @@ Für 3-4 Portionen:
 - Butter
 - Rapsöl
 - Mehl
+- Sesamkerne
 
 ## Rezept
 - Erdnüsse klein mörsern
@@ -45,5 +46,7 @@ Für 3-4 Portionen:
 
 - Mit Mehl andicken und zusammen auf dem Salat servieren
   - Dazu vorher den Mehl in etwas abgeschöpfter Brühe verrühren
+ 
+- Etwas Sesamkörner auf das Hähnchen streuen
 
 *Guten Appetit*
