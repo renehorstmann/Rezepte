@@ -3,9 +3,9 @@
 ![img](imgs/Bechamel_Sauce.jpg)
 
 ## Zutaten
-- 30 g Butter
-- 30 g Mehl
-- 300 ml Milch
+- 20 g Butter
+- 20 g Mehl
+- 200 ml Milch
 
 ## Außerdem
 - Salz
