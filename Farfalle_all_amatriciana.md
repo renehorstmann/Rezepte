@@ -10,7 +10,7 @@ Für eine Portion:
 - 1 Zwiebel
 - 1 Knoblauchzehe
 - 6 Kirschtomaten
-- 6 Stangen Petersilie
+- 12 Stangen Petersilie (ergibt ca. einen gehackten Esslöffel)
 
 ### Außerdem
 - Olivenöl
