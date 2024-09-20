@@ -23,7 +23,7 @@ Für 3-4 Portionen
   - [Bolognese Sauce](Bolognese_Sauce.md)
   - etwas [Bechamel Sauce](Bechamel_Sauce.md)
 
-- Nach der vierten Schicht Lasagne Platten den Reibkäse schichten
+- Nach der vierten Schicht Lasagne die restliche Bachamel Sauce verteilen und darauf den Reibkäse schichten
 
 - Im vorgeheizten Backofen bei 180° Umluft ca 40 Minuten backen
 
