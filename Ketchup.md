@@ -17,7 +17,7 @@
 ## Rezept
 - Knollensellerie, Zwiebel und Knoblauch in grobe Stücke schneiden
 
-- Das geschnittene Gemüse in einem Topf mit 2 Esslöffel Olivenöl scharf anbraten, bis dir Zwiebeln glasig werden
+- Das geschnittene Gemüse in einem Topf mit 2 Esslöffel Olivenöl scharf anbraten, bis die Zwiebeln glasig werden
 
 - Hitze herabstellen und dann die Dose gehackte Tomaten dazurühren, mit etwas Rotwein die Dose auswaschen und dazu geben
 
@@ -27,4 +27,4 @@
 
 - Mit dem Stabmixer pürieren und ggf. nachwürzen
 
-**Guten Appetit**
+*Guten Appetit*
