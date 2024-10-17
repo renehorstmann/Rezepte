@@ -4,7 +4,7 @@
 
 *Für 4 Portionen*
 
-##Zutaten
+## Zutaten
 - 250 g Mie-Nudeln (ohne Ei)
 - 2 Hähnchenbrüste oder Rindfleisch
 - 1/2 China-Kohl
@@ -18,14 +18,14 @@
 - 2 Frühlingszwiebeln
 - ca. 10 Petersilienstangen
 
-##Außerdem
+## Außerdem
 - Sesamöl
 - Helle Soja Sauce
 - Dunkle Soja Sauce
 - Austernsoße
 - Speisestärke
 
-##Rezept
+## Rezept
 - Fleisch in feine Streifen schneiden, je nach Dicke halbieren
 
 - Fleisch von Hand marinien mit:
