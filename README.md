@@ -3,6 +3,7 @@ Ein paar meiner Lieblingsrezepte
 
 ## Alles Mögliche
 - [Bolognese Sauce alla horsimann](Bolognese_Sauce_alla_horsimann.md)
+- [Chow Mein](Chow_Mein.md)
 - [Erdnusshähnchen auf Salatbett](Erdnusshaehnchen_auf_Salatbett.md)
 - [Gulasch](Gulasch.md)
 - [Hähnchenbrust](Haehnchenbrust.md)
