@@ -6,7 +6,7 @@ Für eine Portion:
 
 ## Zutaten
 - 100 g Spaghetti
-- 60 g Pancetta oder Guanciale
+- 60 g Guanciale oder Pancetta
 - 30 g Parmesan
 - 2 Eigelb
 
@@ -16,12 +16,15 @@ Für eine Portion:
 - Pfeffer
 
 ## Rezept
+- Guanciale würfeln
+
 - Die 2 Eigelb mit dem Parmesan und Pfeffer in einer Schüssel vermengen
+  - Tipp: Parmesan auf die Wage legen, "abnullen" und dann bis -30 g reiben
 
-- Spaghetti kochen (nicht abgießen wenn sie fertig sind!)
+- Spaghetti kochen mit 90% der angegebenen Kochzeit(nicht abgießen wenn sie fertig sind!)
 
-- Gleichzeitig zu den Spaghettis, in einer großen Pfanne ohne Öl den Pancetta braten
-  - Wenn die Pancetta nicht genug fett hat, ein bisschen Olivenöl verwenden
+- Gleichzeitig zu den Spaghettis, in einer großen Pfanne ohne Öl den Guanciale braten
+  - Wenn der Guanciale nicht genug fett hat, ein bisschen Olivenöl verwenden
 
 - In der Zwischenzeit 1-2 Esslöffel des Nudelsalzwassers in die Schüssel geben und dann die Eigelbkäsemasse durchrühren
 
