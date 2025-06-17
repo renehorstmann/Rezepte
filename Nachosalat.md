@@ -15,7 +15,7 @@ Für eine große Schüssel / Schale
 - 150 g Cremé Fraich
 - 125 g Reibkäse
 - 250 g Tortilla Chips / Nachos, z. B. gesalzen
-- 4 kleine Chilis, z. B. Rawit oder eine große Peperoni, etc. (Optional)
+- 2 kleine Chilis, z. B. Rawit oder eine große Peperoni, etc. (Optional)
 
 ### Außerdem
 - Rapsöl
