@@ -13,6 +13,7 @@ Für 4 Burritos:
 - Zwiebel
 - 4 große Tortillas (Wraps)
 - Romanasalat
+- Mais
 - Reibkäse
 - Soßen (einzeln oder kombiniert)
   - [Chili Sauce](Chili_Sauce.md) 
@@ -54,6 +55,7 @@ Für 4 Burritos:
     - [Guacamole](Guacamole.md)
     - Cremé Fraiche
   - 2 Esslöffel von der Gemüsesalsa
+  - Esslöffel Mais
   - Romanasalat
 - Zuerst den Tortilla links und rechts ein wenig zur Mitte falten
 - Anschließend von unten nach oben zu rollen
