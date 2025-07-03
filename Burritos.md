@@ -23,8 +23,6 @@ Für 4 Burritos:
 - Olivenöl
 - Salz
 - Pfeffer
-- Paprikapulver
-- Kreuzkümmel
 - Zitronensaft
 
 ## Rezept
@@ -37,8 +35,6 @@ Für 4 Burritos:
   - 1 Esslöffel Olivenöl
   - Salz
   - Pfeffer
-  - Paprikapulver
-  - Kreuzkümmel
   - Etwas Zitronensaft
 
 - [Hähnchenbrust](Haehnchenbrust.md) in Stücke schneiden
