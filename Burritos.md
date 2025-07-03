@@ -42,6 +42,9 @@ Für 4 Burritos:
 - Romanasalat schneiden und waschen
 
 ### Burrito zubereiten
+
+![img](imgs/Burritos_fold.jpg)
+
 - In die Mitte der Tortilla 2 Esslöffel Reis legen
 - Darauf ein paar Hähnchenstücke und darauf etwas Reibkäse
 - Tortilla kurz in der Mikrowelle erwärmen (50 Sekunden)
