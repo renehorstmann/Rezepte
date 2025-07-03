@@ -6,7 +6,7 @@ Für eine Portion:
 
 ## Zutaten
 - 150 g Kartoffeln (mehlig kochend)
-- 50 g Mehl
+- ~75 g Mehl
 - 1 Ei
 
 ### Außerdem
@@ -18,11 +18,15 @@ Für eine Portion:
 
 - Zusammen mit Mehl, Ei und Salz in einer Schüssel zerstampfen
 
+- Mit den Händen durchkneten und ggf. mehr Mehl hinzugeben
+
 - Den Teig ausrollen und in kleine Teile schneiden
 
 - Mit einer Gabel andrücken
 
-- Die Stücke mit Olivenöl oder Butter in einer Pfanne je 6 Minuten unter schwenken braten
+- Gnocchis 8 Minuten lang in Salzwasser köcheln
+
+- Die Stücke mit Olivenöl oder Butter in einer Pfanne ein paar Minuten unter schwenken braten
 
 ## Tipp
 Übrig gebliebene Kartoffeln ausnutzen und die Gnocchis einfrieren. 
