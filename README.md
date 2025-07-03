@@ -6,6 +6,7 @@ Ein paar meiner Lieblingsrezepte
 - [Chow Mein](Chow_Mein.md)
 - [Erdnusshähnchen auf Salatbett](Erdnusshaehnchen_auf_Salatbett.md)
 - [Gulasch](Gulasch.md)
+- [Hackbällchen](Hackbaellchen.md)
 - [Hähnchenbrust](Haehnchenbrust.md)
 - [Karibische Spieße](Karibische_Spiesse.md)
 - [Kartoffelpüree](Kartoffelpueree.md)
