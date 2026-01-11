@@ -23,9 +23,9 @@ Für eine Portion
 
 - Paprika in Streifen schneiden
 
-- Pilz, Salatgurke und Tomaten in Scheibben schneiden
+- Pilz, Salatgurke und Tomaten in Scheiben schneiden
 
-- Beim belegen sollte das untere drittel, das linke und das rechte drittel frei bleiben
+- Beim belegen sollte das untere Drittel, das Linke und das Rechte Drittel frei bleiben
   
 - Noch warme [Hähnchenbrust](Haehnchenbrust.md):
   - Käse auf den Wrap verteilen und in der Mikrowelle ca. 50 Sekunden erwärmen
@@ -41,7 +41,7 @@ Für eine Portion
   - Salatblätter
  
 - Wrap falten:
-  - Unteres drittel hoch falten
-  - Danach von rechts und dann von links zu einer Tasche falten
+  - Unteres Drittel hoch falten
+  - Danach von Rechts und dann von Links zu einer Tasche falten
 
 *Guten Appetit*
