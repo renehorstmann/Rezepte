@@ -7,23 +7,25 @@
 - Zwiebel
 - Knoblauchzehe
 - 10 cm Staudensellerie
+- kleine Möhre
 
 ## Außerdem
 - Olivenöl
-- Zitronensaft
+- Weißweinessig oder frisch gepresster Zitronensaft
+- alkoholfreier Weißwein
 
 ## Rezept
-- Zwiebel, Knoblauchzehe grob würfeln
+- Zwiebel, Knoblauchzehe, Möhre grob würfeln
 
 - Sellerie in feine (1 mm) dicke Scheiben schneiden
   - Ansonsten bleiben Fasern nach dem pürieren in der Sauce übrig
 
 - In einem Topf mit etwas Olivenöl das Gemüse glasig braten
 
-- Hitze herabstellen und die Dose gehackte Tomaten einfüllen
-  - Dosenreste mit beispielsweise etwas (alkoholfreiem) Weißwein in den Topf ausspülen
+- Topfinhalt mit einem Schuss alkohlfreiem Weißwein ablöschen und Tomaten hinzugeben
+  - Dosenreste mit beispielsweise etwas alkoholfreiem Weißwein in den Topf ausspülen
  
-- Zitronensaft (1/3 - 1/2 Zitrone) zum Topf geben
+- kleiner Schuss Weißweinessig oder frisch gepressten Zitronensaft einrühren
 
 - Mit angewinkeltem Topfdeckel +30 Minuten köcheln/reduzieren lassen, bis die gewünschte Konsistenz erreicht ist (schön dick, ist ja Ketchup...)
 
