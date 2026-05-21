@@ -6,27 +6,29 @@ Für eine Portion:
 
 ## Zutaten
 - 100 g Tagliatelle
-- 125 g Lachsfilet
+- 125 g Lachsfilet mit Haut
 - 2 Esslöffel [Pesto](Pesto.md)
 
 ### Außerdem
 - Olivenöl
 - Salz
-- Weißweinessig
+- Weißweinessig oder Zitronensaft
 
 ## Rezept
-- Lachsfilet waschen und würfeln
+- Lachsfilet waschen und auf der Haut in einer großen Pfanne braten. Am besten mit Topfdeckel. Nach dem anbraten auf mittlere Hitze stellen und für insgesamt ca. 35 Minuten braten.
 
-- Tagliatelle in gesalztem Wasser ca. 80% der Kochzeit kochen
+- Passend zum Ende der Bratzeit Tagliatelle in gesalztem Wasser ca. 80% der Kochzeit kochen
 
-- Lachsfilet mit einem Esslöffel Olivenöl in einer großen Pfanne braten
+- Wenn die Tagliatelle fertig sind, den Lachs aus der Pfanne holen und die Tagliatelle direkt aus dem Topf in die Pfanne geben (Nudelwasser aufbewahren)
 
-- Bevor die Tagliatelle fertig sind, den Lachs mit etwas Weißweinessig ablöschen
+- Kurz 1-2 Minuten im Lachsöl braten und wenden und dann die Hitze abstellen
 
-- Pesto mit etwas Nudelwasser einrühren
+- Das Pesto mit etwas Nudelwasser in die Nudelpfanne einrühren.
 
-- Wenn die Tagliatelle fertig sind, direkt aus dem Topf in die Pfanne geben und das Nudelwasser aufbewahren
+- Je nach Konsitenz noch etwas Nudelwasser nachgeben
 
-- Je nach Konsistenz mehr Nudelwasser zur Pfanne geben und noch 1-2 Minuten weiter rührend braten lassen
+- Die Nudeln auf einem Teller servieren und darauf das Stück Lachs (ohne Haut) auflegen.
+
+- Den Lachs auf den Nudeln salzen, pfeffern und ca. 1 Esslöffel Zitronensaft oder Weißweinessig überfließen lassen 
 
 *Guten Appetit*
