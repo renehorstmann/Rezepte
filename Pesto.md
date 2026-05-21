@@ -5,7 +5,7 @@
 ## Zutaten
 - 20-30 Blätter Basilikum
 - 1 Esslöffel Pinienkerne
-- 1 Knoblauchzehe
+- 1 kleine oder halbe Knoblauchzehe
 - 20 g Parmesan
 - Olivenöl
 
@@ -27,6 +27,6 @@
 
 - Statt Basilikum Paprika für Paprikapesto verwenden.
 
-- Wenn ein kleiner Mixer statt des Mörsers verwendet wird, Basilikum vorher in den Händen klatschen, damit das Öl besser entweichen kann.
+- Alternativ zum Mörser kann auch ein Stabmixer verwendet werden. Funktioniert nur bei größeren Portionen. Kommt das Pesto direkt in die Pfanne mit Pasta kommt, wie [Tagliatelle al salmone e pesto](Tagliatelle_al_salmone_e_pesto.md), kann man auch etwas Nudelwasser ins Pesto mischen um das mixen zu vereinfachen.
 
 *Guten Appetit*
