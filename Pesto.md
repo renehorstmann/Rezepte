@@ -27,6 +27,6 @@
 
 - Statt Basilikum Paprika für Paprikapesto verwenden.
 
-- Alternativ zum Mörser kann auch ein Stabmixer verwendet werden. Funktioniert nur bei größeren Portionen. Kommt das Pesto direkt in die Pfanne mit Pasta kommt, wie [Tagliatelle al salmone e pesto](Tagliatelle_al_salmone_e_pesto.md), kann man auch etwas Nudelwasser ins Pesto mischen um das mixen zu vereinfachen.
+- Alternativ zum Mörser kann auch ein Stabmixer verwendet werden. Funktioniert nur bei größeren Portionen. Kommt das Pesto direkt in die Pfanne mit Pasta, wie [Tagliatelle al salmone e pesto](Tagliatelle_al_salmone_e_pesto.md), kann man auch etwas Nudelwasser ins Pesto mischen um das mixen zu vereinfachen.
 
 *Guten Appetit*
