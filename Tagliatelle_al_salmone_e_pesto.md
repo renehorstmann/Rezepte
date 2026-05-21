@@ -6,7 +6,7 @@ Für eine Portion:
 
 ## Zutaten
 - 100 g Tagliatelle
-- 125 g Lachsfilet mit Haut
+- 200 g Lachsfilet mit Haut
 - 2 Esslöffel [Pesto](Pesto.md)
 
 ### Außerdem
