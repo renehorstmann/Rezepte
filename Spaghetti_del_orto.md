@@ -7,7 +7,7 @@ Für eine Portion:
 ## Zutaten
 - 125 g Spaghetti
 - 1 Tomate
-- 1 kleine Schalotte
+- 1 Schalotte
 - 15 cm Staudensellerie
 - 5 Stängel Petersilie
 
