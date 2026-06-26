@@ -39,7 +39,7 @@ Für eine Portion:
 
 - 1-2 Minuten in der Pfanne unterrühren
   - Wenn die Spaghetti zu trocken werden, ein wenig Nudelsalzwasser nach kippen
-  - Oder je nach belieben noch einen weiteren Esslöffel Olivenöl
+  - Oder/Und je nach belieben noch einen weiteren Esslöffel Olivenöl
 
 - Petersilie klein hacken
 
