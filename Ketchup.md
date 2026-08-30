@@ -7,7 +7,7 @@
 - 100 g Knollensellerie
 - 1 Zwiebel
 - 1 Knoblauchzehe
-- 1/2 Zitrone
+- 20 ml Weißweinessig
 
 ## Auderdem
 - Honig
@@ -19,9 +19,9 @@
 
 - Das geschnittene Gemüse in einem Topf mit 2 Esslöffel Olivenöl scharf anbraten, bis die Zwiebeln glasig werden
 
-- Hitze herabstellen und dann die Dose gehackte Tomaten dazurühren, mit etwas Rotwein die Dose auswaschen und dazu geben
+- Hitze herabstellen und dann die Dose gehackte Tomaten dazurühren, mit einem Schuss Weißweinessig (20 ml) die Dose auswaschen und dazu geben
 
-- Saft der halben Zitrone, 2 Esslöffel Honig und 2 Teelöffel Salz unterrühren
+- 2 Esslöffel Honig und 2 Teelöffel Salz unterrühren
 
 - Alles +30 Minuten einköcheln und reduzieren lassen
 
