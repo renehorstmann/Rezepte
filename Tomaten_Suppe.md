@@ -11,12 +11,14 @@ Für vier Portionen
 - 1 Stange Staudensellerie
 - ca. 100 ml Weißwein
 - ca. 100 ml Brühe
+- Optional: Suppennuddeln
 
 ## Außerdem
 - Kräuter der Provinz
-- Balsamico-Essig
 - Butter
 - Olivenöl
+- Tomatenmark
+- Balsamico-Essig
 
 ## Rezept
 - Tomatem anscheiden, blanchieren (kurz eine Minute in kochendes Wasser legen) abkühlen und häuten.
@@ -36,6 +38,10 @@ Für vier Portionen
 - 10-30 Minuten kochen lassen
 
 - Mit dem Stabmixer pürieren
+
+- Optional die Suppennudeln mit kochen lassen
+
+- Je nach Konsistenz mit etwas Tomatenmark andicken
 
 - Kräuter der Provienz einrühren
 
