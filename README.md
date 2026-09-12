@@ -17,6 +17,7 @@ Ein paar meiner Lieblingsrezepte
 - [Pilz Sauce](Pilz_Sauce.md)
 - [Ramen](Ramen.md)
 - [Reis](Reis.md)
+- [Tomaten Suppe](Tomaten_Suppe.md)
 
 ## Italienisch
 - [Bolognese Sauce](Bolognese_Sauce.md)
